@@ -51,7 +51,7 @@ Study the pictograph below and answer the questions. Each 🏆 symbol represents
 
 ---
 
-### **Section B: Tally Marks (15 marks)**
+### **Section B: Tally Marks (20 marks)**
 
 #### Question 4 (5 marks)
 The table below shows the number of students in different classes who brought lunch from home.
