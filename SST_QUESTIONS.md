@@ -76,7 +76,7 @@
 9. Which river is the national aquatic animal of India mainly found in?
 10. What is the significance of the Taj Mahal in Indian heritage?
 
-### **G. Broad Questions**
+### **G. Discuss the Questions elaborately**
 
 1. Describe the design and symbolism of the Indian national flag.
 2. What is the significance of India's national symbols?
