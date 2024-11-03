@@ -1,134 +1,98 @@
 ### **A. Multiple-Choice Questions (MCQs)**
 
-1. Which animal is the national animal of India, symbolizing bravery and strength?  
-   i. Monkey  ii. Elephant  iii. Tiger  iv. Falcon  
+1. The national animal of India, symbolizing bravery and strength, is found in which sanctuary?  
+   i. Gir Forest  ii. Sundarbans  iii. Ranthambhore  iv. Jim Corbett  
 
-2. The middle band of the Indian national flag features:  
-   i. Lotus  ii. Rupee symbol  iii. Navy blue chakra  iv. Orange spot  
+2. Which appears in the middle band of the Indian national flag?  
+   i. Ashoka Pillar  ii. Navy blue chakra  iii. Lotus  iv. Lion Capital  
 
-3. The national aquatic animal of India is:  
-   i. Dolphin  ii. Jellyfish  iii. Whale  iv. Turtle  
+3. Sanchi Stupa was constructed during which period?  
+   i. Mughal  ii. Chalukyan  iii. Mauryan  iv. Rajput  
 
-4. The Lion Capital symbol appears on:  
-   i. Coins, notes, and government documents  ii. School diaries  iii. National flags  iv. University emblems  
+4. India's national aquatic animal is the:  
+   i. Whale  ii. Turtle  iii. Dolphin  iv. Jellyfish  
 
-5. India’s national bird is:  
-   i. Pigeon  ii. Sparrow  iii. Peacock  iv. Parrot  
+5. The Indian national anthem, *Jana Gana Mana*, was written by:  
+   i. Bankim Chandra Chatterjee  ii. Rabindranath Tagore  iii. Mahatma Gandhi  iv. Jawaharlal Nehru  
 
-6. The Ajanta Caves are located at a distance of 107 km from:  
-   i. Mumbai  ii. Pune  iii. Aurangabad  iv. Nagpur  
+6. Which color in the Indian flag stands for courage and sacrifice?  
+   i. White  ii. Green  iii. Saffron  iv. Blue  
 
-7. Which monument is part of India’s world heritage and is known for its unique chariot design?  
-   i. Taj Mahal  ii. Sanchi Stupa  iii. Konark Sun Temple  iv. Qutub Minar  
+7. The *Ramayana* is classified as which type of heritage?  
+   i. Natural  ii. Cultural  iii. Architectural  iv. Material  
 
-8. Sanchi Stupa was constructed during the:  
-   i. Mauryan period  ii. Chalukyan period  iii. Mughal period  iv. Rajput period  
+8. The Lotus flower, symbolizing purity, is India's national:  
+   i. Animal  ii. Bird  iii. Flower  iv. Fruit  
 
-9. The Brihadisvara temple is located in:  
-   i. Tamil Nadu  ii. Maharashtra  iii. Odisha  iv. Karnataka  
+9. The Brihadisvara Temple, built in 1010 CE, is located in:  
+   i. Maharashtra  ii. Tamil Nadu  iii. Karnataka  iv. Odisha  
 
-10. The title *Ramayana* means:  
-   i. Journey of peace  ii. Rama's journey  iii. Sage's wisdom  iv. Battle of Good and Evil  
+10. The phrase *Satyameva Jayate*, meaning "Truth alone triumphs," is inscribed on:  
+    i. The Indian flag  ii. Government documents  iii. The national emblem  iv. Currency notes  
 
 ### **B. Match Column A with Column B**
 
-| **Column A**                   | **Column B**                     |
-|--------------------------------|----------------------------------|
-| 1. Taj Mahal                   | a. Wonders of the World          |
-| 2. Satyameva Jayate            | b. Lion Capital                  |
-| 3. Green on the flag           | c. Prosperity                    |
-| 4. Jana Gana Mana              | d. National anthem               |
-| 5. Vande Mataram               | e. National song                 |
-| 6. Konark Sun Temple           | f. Chariot design                |
-| 7. Mango                       | g. National fruit                |
-| 8. River Dolphin               | h. National aquatic animal       |
-| 9. Sanchi Stupa                | i. Mauryan period monument       |
-| 10. Qutub Minar                | j. Brick minaret                 |
+| Column A                    | Column B                        |
+|-----------------------------|---------------------------------|
+| 1. National Anthem          | a. River dolphin               |
+| 2. Sanchi Stupa             | b. Courage and sacrifice       |
+| 3. Tricolor Flag            | c. Mauryan period              |
+| 4. River dolphin            | d. National symbol             |
+| 5. Satyameva Jayate         | e. Lion Capital                |
+| 6. Vande Mataram            | f. Bankim Chandra Chatterjee   |
+| 7. Green color              | g. Prosperity                  |
+| 8. Taj Mahal                | h. Wonders of the World        |
+| 9. Ashoka Chakra            | i. 24 spokes                   |
+| 10. Qutub Minar             | j. Brick minaret               |
 
 ### **C. Fill-in-the-Blanks Questions**
 
-1. Our national flag is also called the _______.
-
-2. The chakra in the national flag has _______ spokes.
-
-3. The Indian national emblem is derived from the _______.
-
-4. _______ is considered the national bird of India.
-
-5. India’s national flower is the _______.
-
-6. Ajanta Caves are located in the state of _______.
-
-7. Cultural heritage includes _______, literature, music, and dance forms.
-
-8. The title *Ramayana* means _______.
-
-9. The green color on the Indian flag stands for _______.
-
-10. _______ is India's national fruit.
+1. The chakra in the center of the national flag has ___ spokes.
+2. The national song of India, *Vande Mataram*, was composed by ___.
+3. Our national emblem, featuring four lions, is derived from the ___.
+4. The ___ is the national bird of India.
+5. ___ is a cultural heritage site located at a distance from Aurangabad.
+6. The ___ color in the Indian flag stands for peace.
+7. The ___ in Tamil Nadu is a famous temple built in 1010 CE.
+8. India’s national aquatic animal is the ___.
+9. The Sundarbans are recognized as a part of India's ___ heritage.
+10. The paintings in the Ajanta Caves were created on ___ walls.
 
 ### **D. True/False Statements**
 
-1. The national song of India, *Vande Mataram*, was composed by Bankim Chandra Chatterjee in Sanskrit.
-
-2. River dolphins can survive only in pure freshwater.
-
-3. The national emblem has three lions standing side by side.
-
-4. The government has started a program called Project Tiger to protect the national animal.
-
-5. The words *Satyameva Jayate* are engraved on the national flag.
-
-6. Cultural heritage includes trees and animals.
-
-7. Kaziranga National Park is located in Bangladesh.
-
-8. The Ajanta Caves contain paintings made on mud-plastered walls.
-
-9. The Konark Sun Temple is shaped like a large lotus.
-
-10. *Mahabharata* is classified as a folk tale.
+1. The words *Satyameva Jayate* are engraved on India’s national emblem.  
+2. The national anthem of India is *Vande Mataram*.  
+3. River dolphins can survive only in pure freshwater.  
+4. Cultural heritage includes monuments and traditions.  
+5. *Ramayana* and *Mahabharata* are considered part of India’s natural heritage.  
+6. The Qutub Minar is recognized as the tallest brick minaret in the world.  
+7. The color green in the Indian flag symbolizes bravery and sacrifice.  
+8. *Jana Gana Mana* was originally composed in Bengali.  
+9. The Konark Sun Temple was designed in the form of a chariot.  
+10. Ajanta Caves paintings are famous for their depiction of historical stories.  
 
 ### **E. Short Answer Questions**
 
-1. Who composed the national anthem of India?
-
-2. What does the phrase *Satyameva Jayate* mean?
-
-3. Name India’s national aquatic animal.
-
-4. In which language was India’s national song *Vande Mataram* originally written?
-
-5. What does the saffron color on the national flag represent?
-
-6. Where is the Taj Mahal located?
-
-7. What is the significance of Ajanta Caves?
-
-8. Name India’s national bird and its symbolic meaning.
-
-9. Which epic is known as "Rama's journey"?
-
-10. From which pillar was the national emblem of India adopted?
+1. Who is the author of India’s national anthem?
+2. What does the color saffron represent on the Indian national flag?
+3. In which language was India’s national song, *Vande Mataram*, composed?
+4. What does *Satyameva Jayate* mean?
+5. Name any two UNESCO heritage sites from India.
+6. What material is the Iron Pillar in Delhi made of?
+7. From where is the design of India’s national emblem adopted?
+8. What do the 24 spokes on the Ashoka Chakra signify?
+9. Which river is the national aquatic animal of India mainly found in?
+10. What is the significance of the Taj Mahal in Indian heritage?
 
 ### **G. Broad Questions**
 
-1. Describe the design and symbolism of the Indian national flag.
-
-2. What is the significance of India's national symbols?
-
-3. Why are heritage monuments like the Taj Mahal and Ajanta Caves important to India?
-
-4. Explain the role of epics such as *Ramayana* and *Mahabharata* in Indian culture.
-
-5. Discuss the need for protecting cultural and natural heritage sites in India.
-
-6. Who are poachers, and why is it important to protect wildlife from them?
-
-7. What do the colors of the Indian flag represent?
-
-8. Describe the significance of the Ajanta and Ellora caves.
-
-9. Why is the title *Ramayana* meaningful?
-
-10. Explain the importance of *Satyameva Jayate* as India’s national motto.
+1. Describe the national flag of India and its significance.
+2. Explain why national symbols are important for a country.
+3. Describe the main features of the Sanchi Stupa and its historical importance.
+4. What is the significance of the Taj Mahal, and why is it considered a world heritage site?
+5. How does India’s national emblem symbolize the principles of the country?
+6. Describe the purpose and historical importance of the Ajanta Caves.
+7. Who are poachers, and why is poaching a threat to wildlife?
+8. How do the colors of the Indian national flag reflect the values of the country?
+9. Discuss the importance of India’s cultural heritage and name some ways it is preserved.
+10. Explain the role of heritage monuments in understanding India’s history and culture.
