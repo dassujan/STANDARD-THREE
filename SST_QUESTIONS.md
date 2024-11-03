@@ -78,7 +78,7 @@
 3. In which language was India’s national song, *Vande Mataram*, composed?
 4. What does *Satyameva Jayate* mean?
 5. Name any two UNESCO heritage sites from India.
-6. What material is the Iron Pillar in Delhi made of?
+6. What is the significance of Ajanta Caves?
 7. From where is the design of India’s national emblem adopted?
 8. What do the 24 spokes on the Ashoka Chakra signify?
 9. Which river is the national aquatic animal of India mainly found in?
@@ -86,13 +86,13 @@
 
 ### **G. Broad Questions**
 
-1. Describe the national flag of India and its significance.
-2. Explain why national symbols are important for a country.
-3. Describe the main features of the Sanchi Stupa and its historical importance.
-4. What is the significance of the Taj Mahal, and why is it considered a world heritage site?
-5. How does India’s national emblem symbolize the principles of the country?
-6. Describe the purpose and historical importance of the Ajanta Caves.
-7. Who are poachers, and why is poaching a threat to wildlife?
-8. How do the colors of the Indian national flag reflect the values of the country?
-9. Discuss the importance of India’s cultural heritage and name some ways it is preserved.
-10. Explain the role of heritage monuments in understanding India’s history and culture.
+1. Describe the design and symbolism of the Indian national flag.
+2. What is the significance of India's national symbols?
+3. Why are heritage monuments like the Taj Mahal and Ajanta Caves important to India?
+4. Explain the role of epics such as *Ramayana* and *Mahabharata* in Indian culture.
+5. Discuss the need for protecting cultural and natural heritage sites in India.
+6. Who are poachers, and why is it important to protect wildlife from them?
+7. What do the colors of the Indian flag represent?
+8. Describe the significance of the Ajanta and Ellora caves.
+9. Why is the title *Ramayana* meaningful?
+10. Explain the importance of *Satyameva Jayate* as India’s national motto.
