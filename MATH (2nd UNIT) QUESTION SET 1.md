@@ -53,7 +53,7 @@
    - b) How many children like to watch sports on TV? (1 mark)
    - c) How many children like to watch news and nature programs combined? (1 marks)
 
-#### **Section B: Tally Marks (15 Marks)**
+#### **Section B: Tally Marks (19 Marks)**
 
 5. Using tally marks, represent the following data about students’ favorite colors. **(7 marks)** 
 
