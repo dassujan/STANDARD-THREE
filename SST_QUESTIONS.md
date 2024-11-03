@@ -2,31 +2,22 @@
 
 1. The national animal of India, symbolizing bravery and strength, is found in which sanctuary?  
    i. Gir Forest  ii. Sundarbans  iii. Ranthambhore  iv. Jim Corbett  
-
 2. Which appears in the middle band of the Indian national flag?  
    i. Ashoka Pillar  ii. Navy blue chakra  iii. Lotus  iv. Lion Capital  
-
 3. Sanchi Stupa was constructed during which period?  
    i. Mughal  ii. Chalukyan  iii. Mauryan  iv. Rajput  
-
 4. India's national aquatic animal is the:  
    i. Whale  ii. Turtle  iii. Dolphin  iv. Jellyfish  
-
 5. The Indian national anthem, *Jana Gana Mana*, was written by:  
    i. Bankim Chandra Chatterjee  ii. Rabindranath Tagore  iii. Mahatma Gandhi  iv. Jawaharlal Nehru  
-
 6. Which color in the Indian flag stands for courage and sacrifice?  
    i. White  ii. Green  iii. Saffron  iv. Blue  
-
 7. The *Ramayana* is classified as which type of heritage?  
    i. Natural  ii. Cultural  iii. Architectural  iv. Material  
-
 8. The Lotus flower, symbolizing purity, is India's national:  
    i. Animal  ii. Bird  iii. Flower  iv. Fruit  
-
 9. The Brihadisvara Temple, built in 1010 CE, is located in:  
    i. Maharashtra  ii. Tamil Nadu  iii. Karnataka  iv. Odisha  
-
 10. The phrase *Satyameva Jayate*, meaning "Truth alone triumphs," is inscribed on:  
     i. The Indian flag  ii. Government documents  iii. The national emblem  iv. Currency notes  
 
