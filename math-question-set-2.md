@@ -1,5 +1,3 @@
-## MATH (2nd UNIT) QUESTIONS FOR STANDARD THREE
-
 #### **Section A: Pictographs (22 Marks)**
 
 1.  The pictograph below shows the number of books read by students in different grades over the summer. Each 📚 symbol represents 4 books. **(3 marks)**
@@ -71,8 +69,6 @@
    - a) How many toys in total were sold for each type? (1 marks)
    - b) Which toy type was sold the most? (1 mark)
    - c) How many toys were sold altogether? (2 mark)
-
----
 
 #### **Section B: Tally Marks (23 Marks)**
 
