@@ -1,64 +1,34 @@
 ### **A. Multiple-Choice Questions (MCQs)**
 
-1. Which animal is the national animal of India, symbolizing bravery and strength?
-   - i. Monkey
-   - ii. Elephant
-   - iii. Tiger
-   - iv. Falcon  
+1. Which animal is the national animal of India, symbolizing bravery and strength?  
+   i. Monkey  ii. Elephant  iii. Tiger  iv. Falcon  
 
-2. The middle band of the Indian national flag features:
-   - i. Lotus
-   - ii. Rupee symbol
-   - iii. Navy blue chakra
-   - iv. Orange spot  
+2. The middle band of the Indian national flag features:  
+   i. Lotus  ii. Rupee symbol  iii. Navy blue chakra  iv. Orange spot  
 
-3. The national aquatic animal of India is:
-   - i. Dolphin
-   - ii. Jellyfish
-   - iii. Whale
-   - iv. Turtle  
+3. The national aquatic animal of India is:  
+   i. Dolphin  ii. Jellyfish  iii. Whale  iv. Turtle  
 
-4. The Lion Capital symbol appears on:
-   - i. Coins, notes, and government documents
-   - ii. School diaries
-   - iii. National flags
-   - iv. University emblems  
+4. The Lion Capital symbol appears on:  
+   i. Coins, notes, and government documents  ii. School diaries  iii. National flags  iv. University emblems  
 
-5. India’s national bird is:
-   - i. Pigeon
-   - ii. Sparrow
-   - iii. Peacock
-   - iv. Parrot  
+5. India’s national bird is:  
+   i. Pigeon  ii. Sparrow  iii. Peacock  iv. Parrot  
 
-6. The Ajanta Caves are located at a distance of 107 km from:
-   - i. Mumbai
-   - ii. Pune
-   - iii. Aurangabad
-   - iv. Nagpur  
+6. The Ajanta Caves are located at a distance of 107 km from:  
+   i. Mumbai  ii. Pune  iii. Aurangabad  iv. Nagpur  
 
-7. Which monument is part of India’s world heritage and is known for its unique chariot design?
-   - i. Taj Mahal
-   - ii. Sanchi Stupa
-   - iii. Konark Sun Temple
-   - iv. Qutub Minar  
+7. Which monument is part of India’s world heritage and is known for its unique chariot design?  
+   i. Taj Mahal  ii. Sanchi Stupa  iii. Konark Sun Temple  iv. Qutub Minar  
 
-8. Sanchi Stupa was constructed during the:
-   - i. Mauryan period
-   - ii. Chalukyan period
-   - iii. Mughal period
-   - iv. Rajput period  
+8. Sanchi Stupa was constructed during the:  
+   i. Mauryan period  ii. Chalukyan period  iii. Mughal period  iv. Rajput period  
 
-9. The Brihadisvara temple is located in:
-   - i. Tamil Nadu
-   - ii. Maharashtra
-   - iii. Odisha
-   - iv. Karnataka  
+9. The Brihadisvara temple is located in:  
+   i. Tamil Nadu  ii. Maharashtra  iii. Odisha  iv. Karnataka  
 
-10. The title *Ramayana* means:
-   - i. Journey of peace
-   - ii. Rama's journey
-   - iii. Sage's wisdom
-   - iv. Battle of Good and Evil  
+10. The title *Ramayana* means:  
+   i. Journey of peace  ii. Rama's journey  iii. Sage's wisdom  iv. Battle of Good and Evil  
 
 ### **B. Match Column A with Column B**
 
