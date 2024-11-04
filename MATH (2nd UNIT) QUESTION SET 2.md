@@ -13,21 +13,16 @@
    - b) Which grade read the fewest books? (1 mark)
    - c) How many books were read in total by all the grades? (1 mark)
 
-**2.** The pictograph below shows the number of pets owned by children in a neighborhood. Each 🐾 symbol represents 2 pets. **(5 marks)** 
+**2.** The table below shows the number of children who attended an art club in each class. Choose a symbol to represent this data, where each symbol represents 4 children.**(6 marks)** 
 
-| **Pet Type** | 🐾 Symbols       |
-|--------------|------------------|
-| Dogs         | 🐾🐾🐾🐾🐾🐾  |
-| Cats         | 🐾🐾🐾🐾🐾      |
-| Birds        | 🐾🐾🐾          |
-| Fish         | 🐾🐾🐾🐾🐾🐾🐾 |
+| **Class** | 1  | 2  | 3  | 4  | 5  |
+|-----------|----|----|----|----|----|
+| **Students in Art Club** | 16 | 8 | 12 | 6 | 20 |
 
-   - a) How many dogs are there in the neighborhood? (1 mark)
-   - b) Which pet type has the highest count? (1 mark)
-   - c) How many more cats are there than birds? (1 mark)
-   - d) What is the total number of pets in the neighborhood? (2 mark)
+a) Draw a pictograph based on the table above. (5 marks)  
+b) How many more students attended the art club in Class 5 than in Class 2? (1 mark)
 
-**3.** The following pictograph shows the number of ice creams sold over five days. Each 🍦 symbol represents 3 ice creams. **(5 marks)** 
+**3.** The following pictograph shows the number of ice creams sold over five days. Each 🍦 symbol represents 3 ice creams. **(4 marks)** 
 
 | **Day** | 🍦 Symbols           |
 |---------|----------------------|
@@ -39,7 +34,7 @@
 
    - a) How many ice creams were sold on Monday? (1 mark)
    - b) On which day were the most ice creams sold, and how many were sold? (2 marks)
-   - c) What is the total number of ice creams sold from Monday to Wednesday? (2 marks)
+   - c) What is the total number of ice creams sold from Monday to Wednesday? (1 marks)
 
 #### **Section B: Tally Marks (17 Marks)**
 
