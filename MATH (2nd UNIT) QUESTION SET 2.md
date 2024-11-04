@@ -1,4 +1,4 @@
-#### **Section A: Pictographs (22 Marks)** 
+#### **Section A: Pictographs (28 Marks)** 
 
 1.  The pictograph below shows the number of books read by students in different grades over the summer. Each 📚 symbol represents 4 books. **(3 marks)**
 
@@ -56,7 +56,16 @@
    - a) Draw a pictograph based on the data above. (4 marks)
    - b) How many children are involved in both swimming and reading combined? (1 mark)
 
-5. The pictograph below shows the number of toys sold by a shop over the weekend. Each 🧸 symbol represents 5 toys.**(4 marks)** 
+5. Create a pictograph using your own symbol to represent the number of students who participate in sports activities in each grade. Use a symbol to represent this data, with each symbol representing 3 students. **(6 marks)** 
+
+   | **Grade** | 1  | 2 | 3  | 4 | 5 |
+   |-----------|----|---|----|---|---|
+   | **Students in Sports** | 9  | 15 | 12 | 6 | 3 |
+
+   - a) Draw a pictograph based on the table above. (5 marks)  
+   - b) How many students in total participate in sports in Grade 3 and Grade 5? (1 mark)
+
+6. The pictograph below shows the number of toys sold by a shop over the weekend. Each 🧸 symbol represents 5 toys.**(4 marks)** 
 
    | **Toy Type**  | 🧸 Symbols              |
    |---------------|-------------------------|
@@ -70,9 +79,9 @@
    - b) Which toy type was sold the most? (1 mark)
    - c) How many toys were sold altogether? (2 mark)
 
-#### **Section B: Tally Marks (23 Marks)**
+#### **Section B: Tally Marks (27 Marks)**
 
-6. The following table shows students’ favorite fruits. Draw tally marks for each fruit.**(5 marks)** 
+7. The following table shows students’ favorite fruits. Draw tally marks for each fruit.**(5 marks)** 
 
    | **Fruit** | **Number of Students** |
    |-----------|------------------------|
@@ -84,7 +93,7 @@
    - a) Draw tally marks for each fruit. (4 marks)
    - b) Which fruit is the least popular? (1 mark)
 
-7. Using tally marks, represent the following data of students’ favorite subjects. **(6 marks)** 
+8. Using tally marks, represent the following data of students’ favorite subjects. **(6 marks)** 
 
    | **Subject**   | **Number of Students** |
    |---------------|------------------------|
@@ -93,11 +102,11 @@
    | English       | 11                     |
    | Social Studies| 9                      |
 
-   - Draw tally marks for each subject. (4 marks)
-   - Which subject has the highest number of students? (1 mark)
-   - How many students in total like Science and Social Studies? (1 mark)
+   - a)Draw tally marks for each subject. (4 marks)
+   - b) Which subject has the highest number of students? (1 mark)
+   - c) How many students in total like Science and Social Studies? (1 mark)
 
-8. The table below shows how students travel to school. Draw tally marks for each mode of transport.**(6 marks)** 
+9. The table below shows how students travel to school. Draw tally marks for each mode of transport.**(6 marks)** 
 
    | **Mode of Transport** | **Number of Students** |
    |-----------------------|------------------------|
@@ -106,9 +115,9 @@
    | Car                   | 9                      |
    | Walk                  | 5                      |
 
-   - Draw tally marks for each mode of transport. (4 marks)
-   - How many students travel by bicycle? (1 mark)
-   - Which mode of transport is the most popular? (1 mark)
+   - a)Draw tally marks for each mode of transport. (4 marks)
+   - b) How many students travel by bicycle? (1 mark)
+   - c) Which mode of transport is the most popular? (1 mark)
 
 10. The table below shows the number of students involved in different club activities. Draw tally marks for each activity and answer the questions.**(6 marks)** 
 
@@ -122,3 +131,17 @@
     - a) Draw tally marks for each activity. (4 marks)
     - b) Which activity has the most students? (1 mark)
     - c) How many students are involved in Music and Sports combined? (1 mark)
+
+11. Study the tally chart below, which shows the favorite fruits of students in a class, then answer the questions.**(4 marks)** 
+
+    | **Fruit** | **Tally Marks**         |
+    |-----------|-------------------------|
+    | Apple     |                         |
+    | Banana    |                         |
+    | Grapes    |                         |
+    | Mango     |                         |
+
+    - a) Which fruit was the most popular? (1 marks)  
+    - b) Which fruit was the least popular? (1 marks)  
+    - c) How many students liked grapes? (1 mark)  
+    - d) What is the total number of students surveyed? (1 marks)
