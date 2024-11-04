@@ -63,3 +63,16 @@
    - c) How many students liked grapes? (1 mark)  
    - d) What is the total number of students surveyed? (1 mark)
 
+**6.** The table below shows the number of students in a school who like different sports. Draw tally marks for each sport and answer the following questions. (5 marks)
+
+| Sport         | Number of Students |
+|---------------|--------------------|
+| Football      | 8                  |
+| Cricket       | 13                 |
+| Basketball    | 10                 |
+| Badminton     | 7                  |
+
+   - (a) Which sport is liked by the most students? (1 mark)
+   - (b) How many students like football and badminton together? (1 mark)
+   - (c) Which sport has the least number of students? (1 mark)
+   - (d) How many students like all sports in total? (2 marks)
