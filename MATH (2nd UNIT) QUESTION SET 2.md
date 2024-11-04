@@ -41,8 +41,6 @@
    - b) On which day were the most ice creams sold, and how many were sold? (2 marks)
    - c) What is the total number of ice creams sold from Monday to Wednesday? (2 marks)
 
----
-
 #### **Section B: Tally Marks (17 Marks)**
 
 **4.** The following table shows students’ favorite fruits. Draw tally marks for each fruit. **(5 marks)**
