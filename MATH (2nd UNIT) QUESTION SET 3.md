@@ -1,4 +1,4 @@
-#### **Section A: Pictographs (27 Marks)**
+#### **Section A: Pictographs (15 Marks)**
 
 **1.** Create a pictograph using your own symbol to represent the data below. Each symbol should represent 2 children. **(5 marks)** 
 
@@ -34,9 +34,7 @@
    - b) Which toy type was sold the most? (1 mark)
    - c) How many toys were sold altogether? (2 marks)
 
----
-
-#### **Section B: Tally Marks (23 Marks)**
+#### **Section B: Tally Marks (10 Marks)**
 
 **4.** The table below shows the number of students involved in different club activities. Draw tally marks for each activity and answer the questions. **(6 marks)** 
 
