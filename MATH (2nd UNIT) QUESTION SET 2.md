@@ -1,4 +1,4 @@
-#### **Section A: Pictographs (28 Marks)**
+#### **Section A: Pictographs (13 Marks)**
 
 **1.** The pictograph below shows the number of books read by students in different grades over the summer. Each 📚 symbol represents 4 books. **(3 marks)**
 
@@ -43,7 +43,7 @@
 
 ---
 
-#### **Section B: Tally Marks (22 Marks)**
+#### **Section B: Tally Marks (17 Marks)**
 
 **4.** The following table shows students’ favorite fruits. Draw tally marks for each fruit. **(5 marks)**
 
