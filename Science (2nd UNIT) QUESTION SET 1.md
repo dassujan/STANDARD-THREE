@@ -47,18 +47,17 @@
 ### **C. Match Column A with Column B**
 | Column A                 | Column B                              |
 |--------------------------|---------------------------------------|
-| 1. Matter                | a. Occupies space and has mass       |
-| 2. Solids                | b. Has fixed shape                   |
-| 3. Liquids               | c. Has no fixed shape                |
-| 4. Gases                 | d. Fills the entire space available  |
-| 5. Air                   | e. Mixture of gases                  |
-| 6. Water                 | f. Essential for drinking and cooking|
-| 7. LPG                   | g. Used as cooking gas               |
-| 8. Oxygen                | h. Required for breathing            |
-| 9. CNG                   | i. Used as vehicle fuel              |
-| 10. Rubber               | j. A soft solid                      |
+| 1. Solids                | i. Used as vehicle fuel              |
+| 2. Oxygen                | g. Used as cooking gas               |
+| 3. Water                 | b. Has fixed shape                   |
+| 4. LPG                   | h. Required for breathing            |
+| 5. Rubber                | f. Essential for drinking and cooking|
+| 6. CNG                   | j. A soft solid                      |
+| 7. Air                   | c. Has no fixed shape                |
+| 8. Matter                | e. Mixture of gases                  |
+| 9. Liquids               | d. Fills the entire space available  |
+| 10. Gases                | a. Occupies space and has mass       |
 
- 
 ### **D. True/False Statements**
 1. Matter occupies space and has mass.  
 2. Liquids have a fixed shape.  
