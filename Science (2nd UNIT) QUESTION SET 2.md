@@ -43,16 +43,11 @@
 ### **B. Match Column A with Column B**
 | Column A               | Column B                                |
 |------------------------|-----------------------------------------|
-| 1. Liquids             | a. Mixture of many gases               |
-| 2. Solids              | b. Essential for drinking and cooking  |
-| 3. Gases               | c. Fills the container completely      |
-| 4. Rubber              | d. Can be poured and spilled           |
-| 5. Air                 | e. Soft solid                          |
-| 6. Water               | f. Has a fixed shape                   |
-| 7. CNG                 | g. Used as vehicle fuel                |
-| 8. Oxygen              | h. Essential for breathing             |
-| 9. LPG                 | i. Used for cooking                    |
-| 10. Ice                | j. Solid state of water               |
+| 1. Liquids             | a. Essential for drinking and cooking  |
+| 2. Solids              | b. Fills the container completely      |
+| 3. Gases               | c. Can be poured and spilled           |
+| 4. Water               | d. Essential for breathing             |
+| 5. Air                 | e. Has a fixed shape                   |
  
 ### **C. Fill-in-the-Blanks Questions**
 1. A solid has a fixed **_____**, while a liquid does not.
