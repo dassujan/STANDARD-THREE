@@ -62,8 +62,7 @@
 6. Plastic bags are recommended for keeping the surroundings clean.
 
 ### E. Classify the Following as Solid, Liquid, or Gas
-1. Milk,    2. Table,    3. Air,
-4. Juice,   5. Pen,      6. Steam  
+1. Milk,    2. Table,    3. Air, 4. Juice,   5. Pen,      6. Steam  
 
 ### F. Answer the Following Questions
 1. What is matter?
