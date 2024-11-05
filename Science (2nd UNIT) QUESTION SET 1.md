@@ -3,39 +3,31 @@
    - (i) Solids  
    - (ii) Matter  
    - (iii) Liquids
-2. Which state of matter has a fixed shape?
+2. Which state of matter flows easily and takes the shape of its container?
    - (i) Solid  
    - (ii) Liquid  
    - (iii) Gas
-3. Water, milk, oil, and fruit juice are examples of:
-   - (i) Liquid  
-   - (ii) Solid  
-   - (iii) Gas
-4. Which state of matter flows easily and takes the shape of its container?
-   - (i) Solid  
-   - (ii) Liquid  
-   - (iii) Gas
-5. Most gases are:
+3. Most gases are:
    - (i) Colored  
    - (ii) Colorless  
    - (iii) Black
-6. Liquids have:
+4. Liquids have:
    - (i) Fixed shape  
    - (ii) Fixed volume  
    - (iii) No volume
-7. Gases spread to fill:
+5. Gases spread to fill:
    - (i) Only half the container  
    - (ii) Entire space of container  
    - (iii) Remain in one place
-8. Which of these is an example of a gas used for cooking?
+6. Which of these is an example of a gas used for cooking?
    - (i) Water vapor  
    - (ii) LPG  
    - (iii) Sand
-9. Which state of matter does not have a fixed shape or size?
+7. Which state of matter does not have a fixed shape or size?
    - (i) Liquid  
    - (ii) Gas  
    - (iii) Solid
-10. CNG is commonly used as:
+8. CNG is commonly used as:
     - (i) Fuel for vehicles  
     - (ii) Cooking gas  
     - (iii) For drinking
