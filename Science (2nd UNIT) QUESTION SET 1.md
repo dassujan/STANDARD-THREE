@@ -32,7 +32,19 @@
     - (ii) Cooking gas  
     - (iii) For drinking
  
-### **B. Match Column A with Column B**
+### **B. Fill-in-the-Blanks Questions**
+1. Matter exists in three different forms: **_____, _____**, and **_____**.
+2. Solids have a **____ shape** and do not change easily.
+3. **_____** is a liquid that is essential for most activities like drinking and cooking.
+4. **_____** is used as a vehicle fuel.
+5. Liquids have a **____ volume** but no fixed shape.
+6. **_____** are the smallest parts of a substance that retain all its properties.
+7. Gases do not have a **____ shape** or volume.
+8. We cannot hold **_____** in our hands.
+9. **_____** is a mixture of many gases essential for breathing.
+10. The **_____** we breathe in and the **_____** we breathe out are examples of gases.
+
+### **C. Match Column A with Column B**
 | Column A                 | Column B                              |
 |--------------------------|---------------------------------------|
 | 1. Matter                | a. Occupies space and has mass       |
@@ -45,18 +57,7 @@
 | 8. Oxygen                | h. Required for breathing            |
 | 9. CNG                   | i. Used as vehicle fuel              |
 | 10. Rubber               | j. A soft solid                      |
- 
-### **C. Fill-in-the-Blanks Questions**
-1. Matter exists in three different forms: **_____, _____**, and **_____**.
-2. Solids have a **____ shape** and do not change easily.
-3. **_____** is a liquid that is essential for most activities like drinking and cooking.
-4. **_____** is used as a vehicle fuel.
-5. Liquids have a **____ volume** but no fixed shape.
-6. **_____** are the smallest parts of a substance that retain all its properties.
-7. Gases do not have a **____ shape** or volume.
-8. We cannot hold **_____** in our hands.
-9. **_____** is a mixture of many gases essential for breathing.
-10. The **_____** we breathe in and the **_____** we breathe out are examples of gases.
+
  
 ### **D. True/False Statements**
 1. Matter occupies space and has mass.  
