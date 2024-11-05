@@ -122,10 +122,8 @@ F. Answer the Following Questions
 4. What is the purpose of Swachh Bharat Abhiyan?
 
 
-5. Give two examples of man-made things.
+5. What are liquids? Give two examples.
 
 
 6. Mention one way to keep your surroundings clean.
-
-
 
