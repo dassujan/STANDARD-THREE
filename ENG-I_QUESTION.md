@@ -3,7 +3,7 @@
 
 1. **Match the adjectives with their nouns:**  
    (5 marks, 1 mark each)
-
+   **Instructions:** Match each adjective from Column A with the most suitable noun from Column B.
     | Column A (Adjectives) | Column B (Nouns) |
     |-----------------------|------------------|
     | 1. deep               | a. car          |
@@ -11,8 +11,6 @@
     | 3. fast               | c. ocean        |
     | 4. delicious          | d. sky          |
     | 5. thick              | e. banana       |
-
-**Instructions:** Match each adjective from Column A with the most suitable noun from Column B.
 
 2. **Circle the adjective in each of these sentences:**  
    (5 marks, 1 mark each)
