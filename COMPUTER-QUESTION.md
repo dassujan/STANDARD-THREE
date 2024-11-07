@@ -85,7 +85,7 @@ Each question carries **1 mark**.
     - c) World Wide Web  
  
 
-### **Section D: Short Answer Questions** (20 Marks)
+### **Section D: Short Answer Questions** (16 Marks)
 
 Each question carries **2 marks**.
 
