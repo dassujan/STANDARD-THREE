@@ -80,9 +80,9 @@ Each question carries **1 mark**.
    - c) Uniform Reference Locator  
 
 10. The full form of "www" is:
-   - a) World Web Wide
-   - b) Web Wide World
-   - c) World Wide Web  
+    - a) World Web Wide
+    - b) Web Wide World
+    - c) World Wide Web  
  
 
 ### **Section D: Short Answer Questions** (20 Marks)
