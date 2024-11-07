@@ -87,15 +87,13 @@
 
 1. How many sides does a pentagon have?
 
-2. Draw a rectangle and divide it into 4 equal parts. What fraction is each part?
+2. Write the numerator and denominator of 3/5.
 
-3. Write the numerator and denominator of 3/5.
+3. Name a shape that has only one curved side and no corners.
 
-4. Name a shape that has only one curved side and no corners.
+4. If a pizza is divided into 8 equal slices and you eat 3 slices, what fraction of the pizza did you eat?
 
-5. If a pizza is divided into 8 equal slices and you eat 3 slices, what fraction of the pizza did you eat?
+5. Write down the fraction for "three-fourths."
 
-6. Write down the fraction for "three-fourths."
-
-7. Write the fractions for the following:
+6. Write the fractions for the following:
       (a) Two-thirds,      (b) Five-sixths
