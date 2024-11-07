@@ -1,48 +1,36 @@
 ### Section A: Multiple Choice Questions (MCQs)
 
-1. What shape is formed by combining all the pieces of a tangram puzzle?
-   - (a) Rectangle
-   - (b) Square
-   - (c) Triangle
-   - (d) Circle
-
-2. Which shape has three sides?
-   - (a) Rectangle
-   - (b) Pentagon
-   - (c) Triangle
-   - (d) Hexagon
-
-3. Which of the following has no corners?
+1. Which of the following has no corners?
    - (a) Square
    - (b) Triangle
    - (c) Circle
    - (d) Rectangle
 
-4. What fraction represents half of a shape?
+2. What fraction represents half of a shape?
    - (a) 1/4
    - (b) 1/3
    - (c) 1/2
    - (d) 3/4
 
-5. If a circle is divided into four equal parts, what fraction does each part represent?
+3. If a circle is divided into four equal parts, what fraction does each part represent?
    - (a) 1/4
    - (b) 1/2
    - (c) 3/4
    - (d) 1/3
 
-6. A hexagon has:
+4. A hexagon has:
    - (a) 4 sides
    - (b) 5 sides
    - (c) 6 sides
    - (d) 8 sides
 
-7. Which of these shapes can tile a floor without gaps or overlaps?
+5. Which of these shapes can tile a floor without gaps or overlaps?
    - (a) Circle
    - (b) Triangle
    - (c) Octagon
    - (d) Oval
   
-8. Which 3D shape has no edges and no corners?
+6. Which 3D shape has no edges and no corners?
    - (a) Cube
    - (b) Sphere
    - (c) Cone
@@ -110,8 +98,4 @@
 6. Write down the fraction for "three-fourths."
 
 7. Write the fractions for the following:
-      - (a) Half
-      - (b) Three-fourths
-      - (c) Two-thirds
-      - (d) Five-sixths
-
+      (a) Two-thirds,      (b) Five-sixths
