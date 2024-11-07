@@ -74,10 +74,10 @@ Each question carries **1 mark**.
    - b) Web Browser
    - c) Home Page  
 
-9. _________ is an example of antivirus software.
-   - a) Norton
-   - b) Google
-   - c) Twitter  
+9. The full form of "URL" is:
+   - a) Uniform Resource Locator
+   - b) Universal Resource Locator
+   - c) Uniform Reference Locator  
 
 10. The full form of "www" is:
    - a) World Web Wide
