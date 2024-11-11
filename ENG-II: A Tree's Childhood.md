@@ -55,7 +55,7 @@
    - **a. How did Bansuri and her friends spend time with the tree when they grew up?**  
      - They would rest in the tree’s shade after bathing in the river.
 
-### ** Think and answer.**
+### **Think and answer.**
 
 1. **Do you think the tree enjoyed Bansuri’s visits? Why?**  
    - Yes, the tree enjoyed Bansuri’s visits because it would wait for her and liked listening to her chatter.
