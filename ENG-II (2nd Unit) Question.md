@@ -5,47 +5,37 @@
    b) The murmuring sound of the breeze  
    c) The rustling of animals  
    d) The ringing of bells
-2. Who rubs his head against the tree’s trunk?  
-   a) A lion  
-   b) A monkey  
-   c) Gajraj, the elephant  
-   d) A tiger
-3. What did Gajraj ask the tree?  
+2. What did Gajraj ask the tree?  
    a) "Can I break your branches?"  
    b) "Can I eat your leaves?"  
    c) "Can I scratch myself on your branches?"  
    d) "Can I rest on your trunk?"
-4. What did Bansuri think the plants were?  
-   a) Happy  
-   b) Thirsty  
-   c) Sleeping  
-   d) Hungry
-5. What does the tree say we must do in the jungle?  
+3. What does the tree say we must do in the jungle?  
    a) Live alone  
    b) Respect all creatures big and small  
    c) Fight for food  
    d) Be afraid of big animals
-6. Who did the tree wait for every day?  
+4. Who did the tree wait for every day?  
    a) Bansuri  
    b) Gajraj  
    c) The birds  
    d) The jungle animals
-7. What did Bansuri do when she came to the river with her grandmother?  
+5. What did Bansuri do when she came to the river with her grandmother?  
    a) She played with animals  
    b) She watered the plants with a little cup  
    c) She slept under the tree  
    d) She fed the birds
-8. Why did the tree ask Gajraj not to rub too hard?  
+6. Why did the tree ask Gajraj not to rub too hard?  
    a) The tree’s branches were fragile  
    b) The tree was tired  
    c) Gajraj was too strong  
    d) Gajraj’s trunk was too big
-9. What did Bansuri carry with her when she went to the river?  
+7. What did Bansuri carry with her when she went to the river?  
    a) A big basket  
    b) A watering can  
    c) A little cup  
    d) A large pot
-10. How did Bansuri show friendship to the tree?  
+8. How did Bansuri show friendship to the tree?  
     a) By sitting on its branches  
     b) By playing with the birds  
     c) By gently touching its branches with her little hands  
