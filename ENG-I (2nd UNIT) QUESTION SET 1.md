@@ -13,15 +13,20 @@
 *(5 × 1 = 5 marks)*
 
 1. Rani ___ her homework before dinner.  
-   a) does      b) do
+   a) does  
+   b) do
 2. My friends ___ cricket every weekend.  
-   a) plays     b) play
+   a) plays  
+   b) play
 3. He ___ the guitar beautifully.  
-   a) plays     b) play
+   a) plays  
+   b) play
 4. The dog ___ loudly at strangers.  
-   a) barks     b) bark
+   a) barks  
+   b) bark
 5. We ___ in the choir.  
-   a) sings     b) sing
+   a) sings  
+   b) sing
 
  **Q3. Rearrange the words to form meaningful sentences in the simple present tense. (2 marks each)**  
 *(5 × 2 = 10 marks)*
