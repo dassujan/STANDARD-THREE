@@ -37,25 +37,22 @@
 
 ### **Chapter 2: Explorers of the Past**  
  
-1. **Who discovered America?**  
-   - *Christopher Columbus.*
-
-2. **Who discovered the sea route to India?**  
+1. **Who discovered the sea route to India?**  
    - *Vasco da Gama.*
 
-3. **Who was the first explorer to sail all the way around the world?**  
+2. **Who was the first explorer to sail all the way around the world?**  
    - *Ferdinand Magellan.*
 
-4. **Who traveled along the Silk Road and became friends with Kublai Khan?**  
+3. **Who traveled along the Silk Road and became friends with Kublai Khan?**  
    - *Marco Polo.*
 
-5. **Who mapped and explored much of the South Pacific?**  
+4. **Who mapped and explored much of the South Pacific?**  
    - *James Cook.*
 
-6. **Who was the first to reach the South Pole?**  
+5. **Who was the first to reach the South Pole?**  
    - *Roald Amundsen.*
 
-7. **Who was the first to climb Mount Everest?**  
+6. **Who was the first to climb Mount Everest?**  
    - *Edmund Hillary.*
 
 #### **Long Questions:**
