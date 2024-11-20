@@ -1,5 +1,4 @@
 ### **1. Multiple Choice Questions** (1 mark each)  (10 marks)
-
 1. Which animal is known as the largest lizard in the world?  
    a) Komodo Dragon  
    b) Chameleon  
@@ -52,7 +51,6 @@
    d) Holland  
  
 ### **2. Fill in the Blanks** (1 mark each)  (10 marks)
-
 1. The largest bird in the world is the _______.
 2. Christopher Columbus thought he had reached the _______ when he landed in 1492.
 3. The first man to climb Mount Everest was _______.
@@ -65,7 +63,6 @@
 10. The animal that can defend itself with its quills is the _______.
  
 ### **3. Short Answer Questions** (2 marks each)  (20 marks)
-
 1. Why does a chameleon change its color?  
 2. What was the main purpose of Christopher Columbus' voyage?  
 3. Explain how a mongoose is a deadly enemy of snakes.  
@@ -78,7 +75,6 @@
 10. What are the important features of the **Roof of the World**?
 
  ### **4. True or False** (1 mark each)  (5 marks)
-
 1. The **Komodo Dragon** is the largest reptile in the world. (True/False)  
 2. **Christopher Columbus** discovered the land that is now known as the United States. (True/False)  
 3. **Penguins** can fly long distances. (True/False)  
@@ -86,7 +82,6 @@
 5. The **Mongoose** mainly hunts for snakes and rats. (True/False)
 
 ### **5. Match the Sobriquet with the Place** (1 marks each)  (10 marks)
-
 | **A**                        | **B**           |  
 |-------------------------------|-----------------|  
 | 1. Empire City               | a) Palestine    |  
