@@ -76,8 +76,16 @@
 8. Why is the **Land of Thunder Dragon** an appropriate name for Bhutan?  
 9. Why do porcupines have quills, and how do they use them for defense?  
 10. What are the important features of the **Roof of the World**?
- 
-### **4. Match the Sobriquet with the Place** (1 marks each)  (10 marks)
+
+ ### **4. True or False** (1 mark each)  (5 marks)
+
+1. The **Komodo Dragon** is the largest reptile in the world. (True/False)  
+2. **Christopher Columbus** discovered the land that is now known as the United States. (True/False)  
+3. **Penguins** can fly long distances. (True/False)  
+4. The **Giraffe** has the largest heart of any animal. (True/False)  
+5. The **Mongoose** mainly hunts for snakes and rats. (True/False)
+
+### **5. Match the Sobriquet with the Place** (1 marks each)  (10 marks)
 
 | **A**                        | **B**           |  
 |-------------------------------|-----------------|  
@@ -91,11 +99,4 @@
 | 8. Sick Man of Europe        | h) New York     |  
 | 9. Land of Midnight Sun      | i) Australia    |  
 | 10. Wind City                | j) Turkey       |  
- 
-### **5. True or False** (1 mark each)  (5 marks)
 
-1. The **Komodo Dragon** is the largest reptile in the world. (True/False)  
-2. **Christopher Columbus** discovered the land that is now known as the United States. (True/False)  
-3. **Penguins** can fly long distances. (True/False)  
-4. The **Giraffe** has the largest heart of any animal. (True/False)  
-5. The **Mongoose** mainly hunts for snakes and rats. (True/False)
