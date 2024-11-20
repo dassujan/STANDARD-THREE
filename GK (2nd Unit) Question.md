@@ -39,16 +39,6 @@
    b) Scotland  
    c) Norway  
    d) Turkey  
-9. Who was the first person to reach the South Pole?  
-   a) Marco Polo  
-   b) James Cook  
-   c) Roald Amundsen  
-   d) Christopher Columbus  
-10. Which place is known as the **Land of Lakes**?  
-   a) Scotland  
-   b) Australia  
-   c) China  
-   d) Holland  
  
 ### **2. Fill in the Blanks** (1 mark each)  (10 marks)
 1. The largest bird in the world is the _______.
