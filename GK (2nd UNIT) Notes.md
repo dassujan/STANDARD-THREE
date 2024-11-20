@@ -37,35 +37,40 @@
 
 ### **Chapter 2: Explorers of the Past**  
  
-1. **Who discovered the sea-route to India?**  
-   - *Vasco da Gama*  
+1. **Who discovered America?**  
+   - *Christopher Columbus.*
 
-2. **Who was the first explorer to circumnavigate the Earth?**  
-   - *Ferdinand Magellan*  
+2. **Who discovered the sea route to India?**  
+   - *Vasco da Gama.*
 
-3. **Where did Christopher Columbus think he had reached in 1492?**  
-   - *The East Indies*  
+3. **Who was the first explorer to sail all the way around the world?**  
+   - *Ferdinand Magellan.*
 
-4. **Who was the first man to visit the South Pole?**  
-   - *Roald Amundsen*  
+4. **Who traveled along the Silk Road and became friends with Kublai Khan?**  
+   - *Marco Polo.*
 
-5. **Which explorer’s travels are called "The Million"?**  
-   - *Marco Polo*  
+5. **Who mapped and explored much of the South Pacific?**  
+   - *James Cook.*
 
-6. **Who was the first to climb Mount Everest?**  
-   - *Edmund Hillary*  
+6. **Who was the first to reach the South Pole?**  
+   - *Roald Amundsen.*
 
-#### **Long Questions**  
+7. **Who was the first to climb Mount Everest?**  
+   - *Edmund Hillary.*
 
-1. **Write about Vasco da Gama's journey to India.**  
-   - Vasco da Gama was a Portuguese explorer. He was the first to discover the sea route to India by sailing around Africa. His expedition crossed the Indian Ocean with the help of monsoon winds and reached Calicut, India.  
+#### **Long Questions:**
+1. **Write a few sentences about Christopher Columbus.**  
+   - Christopher Columbus is famous for discovering America. He wanted to find a sea route to China by crossing the Atlantic Ocean. Instead, he reached a new land, America.
 
-2. **What did Ferdinand Magellan accomplish?**  
-   - Ferdinand Magellan was the first explorer to circumnavigate the Earth. He also discovered a passage from the Atlantic Ocean to the Pacific Ocean called the Straits of Magellan.  
+2. **How did Vasco da Gama reach India?**  
+   - Vasco da Gama was a Portuguese explorer. He sailed from Europe around the southern tip of Africa and reached Calicut, India, with the help of monsoon winds.
 
-3. **Why is Marco Polo famous?**  
-   - Marco Polo was a merchant and explorer. He traveled along the Silk Road to China and Mongolia and became a friend of Kublai Khan. His travels are famously called "The Million."  
+3. **What is Ferdinand Magellan famous for?**  
+   - Ferdinand Magellan led the first expedition to sail all the way around the world. He also found a passage called the Straits of Magellan.
 
+4. **Why is Marco Polo remembered?**  
+   - Marco Polo traveled along the Silk Road for 24 years. He explored China and Mongolia and became friends with Kublai Khan.
+ 
 ### **Chapter 3: Better Names (Sobriquets)**  
  
 1. **Which place is called the Roof of the World?**  
