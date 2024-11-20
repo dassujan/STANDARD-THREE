@@ -1,5 +1,7 @@
 ### **Chapter 1: Animal Secrets**  
+
 #### **Short Questions**  
+
 1. **Which is the largest lizard in the world?**  
    - *Komodo Dragon*  
 
@@ -25,6 +27,7 @@
    - *An ostrich eats plants, insects, and small animals.*  
 
 #### **Long Questions**  
+
 1. **What are the special features of the Chameleon?**  
    - A chameleon can see in two different directions at the same time without turning its head. It can also change its color due to light, temperature, or emotion.  
 
@@ -35,7 +38,9 @@
    - A mongoose hunts snakes but likes to eat rats.  
 
 ### **Chapter 2: Explorers of the Past**  
+
 #### **Short Questions**  
+
 1. **Who discovered the sea-route to India?**  
    - *Vasco da Gama*  
 
@@ -55,6 +60,7 @@
    - *Edmund Hillary*  
 
 #### **Long Questions**  
+
 1. **Write about Vasco da Gama's journey to India.**  
    - Vasco da Gama was a Portuguese explorer. He was the first to discover the sea route to India by sailing around Africa. His expedition crossed the Indian Ocean with the help of monsoon winds and reached Calicut, India.  
 
@@ -65,7 +71,9 @@
    - Marco Polo was a merchant and explorer. He traveled along the Silk Road to China and Mongolia and became a friend of Kublai Khan. His travels are famously called "The Million."  
 
 ### **Chapter 3: Better Names (Sobriquets)**  
+
 #### **Short Questions**  
+
 1. **Which place is called the Roof of the World?**  
    - *Pamirs*  
 
