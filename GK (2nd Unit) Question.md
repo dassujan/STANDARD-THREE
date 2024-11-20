@@ -1,4 +1,4 @@
-### **1. Multiple Choice Questions** (1 mark each)  (10 marks)
+### **1. Multiple Choice Questions** (1 mark each)  (8 marks)
 1. Which animal is known as the largest lizard in the world?  
    a) Komodo Dragon  
    b) Chameleon  
