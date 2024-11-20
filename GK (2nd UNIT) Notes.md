@@ -1,7 +1,5 @@
 ### **Chapter 1: Animal Secrets**  
-
-#### **Short Questions**  
-
+ 
 1. **Which is the largest lizard in the world?**  
    - *Komodo Dragon*  
 
@@ -38,9 +36,7 @@
    - A mongoose hunts snakes but likes to eat rats.  
 
 ### **Chapter 2: Explorers of the Past**  
-
-#### **Short Questions**  
-
+ 
 1. **Who discovered the sea-route to India?**  
    - *Vasco da Gama*  
 
@@ -71,9 +67,7 @@
    - Marco Polo was a merchant and explorer. He traveled along the Silk Road to China and Mongolia and became a friend of Kublai Khan. His travels are famously called "The Million."  
 
 ### **Chapter 3: Better Names (Sobriquets)**  
-
-#### **Short Questions**  
-
+ 
 1. **Which place is called the Roof of the World?**  
    - *Pamirs*  
 
