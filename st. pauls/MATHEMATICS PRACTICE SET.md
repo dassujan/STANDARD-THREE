@@ -12,9 +12,6 @@
      a) January b) February c) March d) April  
    - How many days are there in September?  
      a) 30 b) 31 c) 28 d) 29  
-3. **Short Questions**:
-   - List the months that have 30 days.
-   - Which months have 31 days?
 ### **Section 2: Time**
 1. **Fill in the Blanks**:
    - The time from midnight to noon is called ___. It is written as ___.
@@ -86,12 +83,6 @@
 3. **Short Answer**:
    - How many days does February have in a leap year?
    - List the months that have 31 days.
-4. **Match the Column**:
-   - Match the months to the number of days they have:
-     - January → 31 days
-     - February → 28 or 29 days
-     - April → 30 days
-     - September → 30 days
 ### **Section 2: Time**
 1. **Write the Following Times Using A.M. or P.M.**:
    - Amit wakes up at 7 o'clock in the morning.
