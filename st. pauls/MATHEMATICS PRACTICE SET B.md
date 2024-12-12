@@ -14,15 +14,6 @@
 2. February has 29 days in a common year. (True/False)
 3. A leap year has 366 days. (True/False)
 4. April has 31 days. (True/False)
-#### **3. Multiple Choice Questions (MCQs):**
-1. How many months have 31 days?  
-   a) 6  b) 7  c) 8  d) 5
-2. In a leap year, how many days does February have?  
-   a) 28  b) 29  c) 30  d) 31
-3. How many days are there in a leap year?  
-   a) 365  b) 366  c) 364  d) 370
-4. How many days does September have?  
-   a) 30  b) 31  c) 28  d) 29
 ### **Section 2: Time**
 #### **1. Write the Following Times Correctly:**
 1. 8 o'clock in the morning: _______
@@ -42,16 +33,11 @@
 2:50, 7:45, 4:10, 9:25, 1:05, 10:55, 6:20, 8:05, 3:00, 11:30,  
 12:25, 5:50, 7:35, 4:40, 9:05, 2:15, 10:00, 6:55, 1:25, 8:45.
 ### **Section 3: Money**
-#### **1. Fill in the Blanks:**
-1. 1 rupee is equal to ___ paise.
-2. ₹10.50 is equal to ___ paise.
-3. ₹0.25 is equal to ___ paise.
-4. ₹5.75 is equal to ___ paise.
-#### **2. Word Problems:**
+#### **1. Word Problems:**
 1. Ramesh has ₹200. He buys a notebook for ₹45 and a pencil for ₹15. How much money is left with him?
 2. A shopkeeper sells a toy for ₹55. If a customer buys 3 toys, how much will they pay?
 3. Anu receives ₹100 from her mother, ₹150 from her aunt, and ₹200 from her uncle. How much money did she receive in total?
-#### **3. Multiple Choice Questions (MCQs):**
+#### **2. Multiple Choice Questions (MCQs):**
 1. How many 25 paise coins make ₹10?  
    a) 20  b) 40  c) 50  d) 100
 2. ₹8.25 is equal to:  
