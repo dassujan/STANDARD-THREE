@@ -204,151 +204,159 @@
    - A man had ₹2500. He bought a shirt for ₹1122 and a pair of trousers for ₹978.50. Calculate how much money he has left.
 
 ## Practice Set - 3
- 
+
 ### **Section 1: Calendar**
 
-#### **1. Fill in the Blanks**:
-1. A common year has ___ days.
-2. A leap year has ___ days.
-3. There are ___ months in a year.
-4. The number of weeks in a year is ___.
-5. The month of February has ___ days in a leap year.
-6. The month of September has ___ days.
-7. In a leap year, February has ___ days.
+#### **1. Fill in the Blanks:**
+1. A year has ___ months.
+2. The month of February has ___ days in a leap year.
+3. The number of days in an ordinary year is ___.
+4. A leap year occurs after every ___ years.
+5. There are ___ weeks in a year.
+6. The months with 31 days are: ___, ___, ___, ___, ___, ___, and ___.
+7. The months with 30 days are: ___, ___, ___, ___, and ___.
 
-#### **2. Match the Following**:
-- Match the month with the number of days it has:
-  - January → 31 days
-  - February → 28 or 29 days
-  - April → 30 days
-  - September → 30 days
-  - November → 30 days
+#### **2. True or False:**
+1. There are 52 weeks in a year. (True/False)
+2. February has 29 days in a common year. (True/False)
+3. A leap year has 366 days. (True/False)
+4. April has 31 days. (True/False)
 
-#### **3. Multiple Choice Questions (MCQs)**:
-1. How many days does the month of November have?
-   a) 28 days  
-   b) 30 days  
-   c) 31 days  
-   d) 29 days  
+#### **3. Multiple Choice Questions (MCQs):**
+1. How many months have 31 days?  
+   a) 6  
+   b) 7  
+   c) 8  
+   d) 5
 
-2. Which of the following months has 31 days?  
-   a) February  
-   b) April  
-   c) May  
-   d) September  
+2. In a leap year, how many days does February have?  
+   a) 28  
+   b) 29  
+   c) 30  
+   d) 31
 
-3. How many months in a year have 31 days?  
-   a) 5  
-   b) 6  
-   c) 7  
-   d) 4  
+3. How many days are there in a leap year?  
+   a) 365  
+   b) 366  
+   c) 364  
+   d) 370
+
+4. How many days does September have?  
+   a) 30  
+   b) 31  
+   c) 28  
+   d) 29
  
+
 ### **Section 2: Time**
 
-#### **1. Write the Time in A.M. or P.M.**:
-1. Amit gets up at 6:00 in the morning.
-2. Rahul finishes his homework at 4:00 p.m.
-3. Sneha has dinner at 7:30 p.m.
-4. Parul goes to school at 7:45 a.m.
-5. Anushka plays with friends at 5:00 p.m.
+#### **1. Write the Following Times Correctly:**
+1. 8 o'clock in the morning: _______
+2. 10 o'clock in the evening: _______
+3. 5:30 p.m.: _______
+4. 12:00 noon: _______
+5. 2 hours after 9:00 a.m.: _______
 
-#### **2. Fill in the Blanks**:
-1. The time from midnight to noon is called ___.
-2. The time from noon to midnight is called ___.
-3. 12 o'clock at night is called ___.
-4. 12 o'clock in the afternoon is called ___.
+#### **2. Convert the Following:**
+1. 3:30 p.m. to the 24-hour format.
+2. 6:45 a.m. to the 12-hour format.
+3. 18:30 hours to the 12-hour format.
+4. 9:15 p.m. to the 24-hour format.
 
-#### **3. Multiple Choice Questions (MCQs)**:
-1. What is 3 hours after 10:30 a.m.?  
-   a) 12:30 p.m.  
-   b) 1:30 p.m.  
-   c) 2:30 p.m.  
-   d) 3:30 p.m.  
-
-2. How do you write 6:00 p.m. in 12-hour format?  
-   a) 6:00 a.m.  
+#### **3. Multiple Choice Questions (MCQs):**
+1. What is 2 hours after 4:00 p.m.?  
+   a) 5:00 p.m.  
    b) 6:00 p.m.  
-   c) 12:00 p.m.  
-   d) 6:00 noon  
+   c) 7:00 p.m.  
+   d) 8:00 p.m.
 
-3. What time is 2 hours before 3:00 p.m.?  
-   a) 1:00 p.m.  
-   b) 11:00 a.m.  
-   c) 12:00 p.m.  
-   d) 12:00 a.m.  
+2. What is 3 hours before 6:00 a.m.?  
+   a) 3:00 a.m.  
+   b) 4:00 a.m.  
+   c) 5:00 a.m.  
+   d) 7:00 a.m.
+
+3. How many minutes are there in 1 hour?  
+   a) 60  
+   b) 50  
+   c) 45  
+   d) 100
+
+4. How many hours are there in a day?  
+   a) 24  
+   b) 12  
+   c) 10  
+   d) 30
  
+
 ### **Section 3: Money**
 
-#### **1. Fill in the Blanks**:
+#### **1. Fill in the Blanks:**
 1. 1 rupee is equal to ___ paise.
-2. ₹2.50 is equal to ___ paise.
-3. ₹1.00 is equal to ___ paise.
-4. To convert rupees into paise, we multiply by ___.
+2. ₹10.50 is equal to ___ paise.
+3. ₹0.25 is equal to ___ paise.
+4. ₹5.75 is equal to ___ paise.
 
-#### **2. Multiple Choice Questions (MCQs)**:
-1. How many 50 paise coins make ₹10?  
-   a) 15 coins  
-   b) 20 coins  
-   c) 30 coins  
-   d) 40 coins  
+#### **2. Word Problems:**
+1. Ramesh has ₹200. He buys a notebook for ₹45 and a pencil for ₹15. How much money is left with him?
+2. A shopkeeper sells a toy for ₹55. If a customer buys 3 toys, how much will they pay?
+3. Anu receives ₹100 from her mother, ₹150 from her aunt, and ₹200 from her uncle. How much money did she receive in total?
 
-2. ₹18.05 is equal to:  
-   a) 1805 paise  
-   b) 1850 paise  
-   c) 185 paise  
-   d) 18000 paise  
+#### **3. Multiple Choice Questions (MCQs):**
+1. How many 25 paise coins make ₹10?  
+   a) 20  
+   b) 40  
+   c) 50  
+   d) 100
 
-3. 100 paise is equal to:  
-   a) ₹0.01  
-   b) ₹0.10  
-   c) ₹1.00  
-   d) ₹10.00  
+2. ₹8.25 is equal to:  
+   a) 825 paise  
+   b) 85 paise  
+   c) 8250 paise  
+   d) 80 paise
 
-4. ₹359.78 + ₹462.42 is equal to:  
-   a) ₹822.20  
-   b) ₹821.20  
-   c) ₹832.20  
-   d) ₹820.20  
+3. How many 50 paise coins are needed to make ₹5?  
+   a) 10  
+   b) 20  
+   c) 50  
+   d) 100
 
-#### **3. Word Problems**:
-1. A man has ₹2500. He buys a shirt for ₹1122 and a pair of trousers for ₹978.50. How much money does he have left?
-2. If Anu gets ₹1255.75 from her grandfather, ₹2051 from her grandmother, and ₹555.50 from her father, how much money does she have altogether?
-3. Geeta earns ₹79 every day. How much money did she earn altogether in the month of July?
-
-#### **4. Cost Calculation**:
-1. If the cost of 7 kg of tomatoes is ₹94.85, what is the cost of 1 kg?
-2. A shopkeeper is selling Ghee at ₹99 per kg. If Suresh buys 5 kg of Ghee, how much will he have to pay to the shopkeeper?
-3. Five friends went on a picnic. They spent ₹78.75 in total. How much will each friend pay?
+4. If the cost of one pencil is ₹6.25, how much will 5 pencils cost?  
+   a) ₹30.25  
+   b) ₹31.25  
+   c) ₹32.25  
+   d) ₹33.25
  
+
 ### **Section 4: Mixed Questions**
 
-#### **1. Write the Following Amounts in Words**:
-1. ₹62.35  
-2. ₹87.75  
+#### **1. Add the Following:**
+1. ₹230.75 + ₹120.50
+2. ₹415.20 + ₹185.80
 
-#### **2. Convert the Following**:
-1. ₹78.45 into paise.  
-2. 9832 paise into rupees.
+#### **2. Subtract the Following:**
+1. ₹500.00 - ₹275.50
+2. ₹800.40 - ₹345.25
 
-#### **3. Add the Following**:
-1. ₹584.70 + ₹348.55  
-2. ₹476.84 + ₹265.26  
+#### **3. Multiply the Following:**
+1. ₹12.50 × 4
+2. ₹9.75 × 6
 
-#### **4. Subtract the Following**:
-1. ₹754.20 - ₹486.55  
-2. ₹843.46 - ₹578.89  
-
-#### **5. Multiply the Following**:
-1. ₹37.05 × 8  
-2. ₹50.04 × 6  
+#### **4. Convert the Following:**
+1. ₹45.60 into paise.
+2. 5000 paise into rupees.
  
+
 ### **Bonus Section: Concept Application**
 
-#### **1. Calculate the Total Earnings**:
-- If Geeta earns ₹79 every day, how much does she earn in the entire month of July (31 days)?
+#### **1. Cost Calculation:**
+- If 1 kg of rice costs ₹22.50, how much will 8 kg of rice cost?
 
-#### **2. Money Spent**:
-- A man had ₹2500. He bought a shirt for ₹1122 and a pair of trousers for ₹978.50. Calculate how much money he has left.
+#### **2. Word Problem:**
+- A shopkeeper is selling chocolates at ₹12 each. If a customer buys 10 chocolates, how much will they pay?
+
+#### **3. Calculate Total Earnings:**
+- Suresh earns ₹50 per day. How much will he earn in 30 days?
 
 ## Practice Set - 3
 
