@@ -87,7 +87,6 @@
 (k) ₹72.80 ÷ 7    (l) ₹184.60 ÷ 8    (m) ₹96.40 ÷ 4    (n) ₹135.60 ÷ 3    (o) ₹63.70 ÷ 5  
 (p) ₹84.30 ÷ 6    (q) ₹49.90 ÷ 2    (r) ₹177.50 ÷ 5    (s) ₹160.20 ÷ 8    (t) ₹97.40 ÷ 6  
 (u) ₹211.10 ÷ 9    (v) ₹92.50 ÷ 4    (w) ₹141.80 ÷ 5    (x) ₹58.10 ÷ 7    (y) ₹176.90 ÷ 6  
-(z) ₹54.30 ÷ 3    (aa) ₹79.60 ÷ 4  
 
 ## Practice Set - 2
 
@@ -434,66 +433,7 @@
 
 ## Practice Set - 4
 
-### **Section 1: Calendar**
-#### **1. Fill in the Blanks:**
-1. There are ___ months in a year.
-2. A leap year has ___ days.
-3. The month of February has ___ days in a leap year.
-4. The number of weeks in a year is ___.
-5. There are ___ months that have 30 days.
-6. April, June, September, and November have ___ days.
-7. The total number of days in the month of July is ___.
-#### **2. True or False:**
-1. Every year has 366 days. (True/False)
-2. The month of February has 28 days in a leap year. (True/False)
-3. The month of September has 30 days. (True/False)
-4. There are 52 weeks in a year. (True/False)
-#### **3. Multiple Choice Questions (MCQs):**
-1. How many months have 31 days?  
-   i. 6		ii. 7		iii. 8		iv. 5  
-2. Which of these months has 28 or 29 days?  
-   i. March		ii. February		iii. October		iv. December  
-3. Which month has 30 days?  
-   i. January		ii. April		iii. May		iv. August   
-### **Section 2: Time**
-#### **1. Write the Following Times Using a.m. or p.m.:**
-1. Rahul wakes up at 6 o'clock in the morning.  
-2. The train arrives at 10:00 a.m.  
-3. The meeting starts at 3:30 p.m.  
-4. Dinner is served at 7:30 p.m.  
-5. The movie begins at 2:00 p.m.  
-#### **2. Convert the Following Times:**
-1. 2:30 p.m. to the 24-hour format.
-2. 6:00 a.m. to the 24-hour format.
-3. 9:45 p.m. to the 24-hour format.
-4. 15:30 hours to the 12-hour format.
-#### **3. Multiple Choice Questions (MCQs):**
-1. What is 2 hours after 9:00 a.m.?  
-   i. 11:00 a.m.		ii. 11:00 p.m.		iii. 10:00 a.m.		iv. 12:00 a.m.  
-2. What is 3 hours before 7:00 p.m.?  
-   i. 6:00 p.m.		ii. 4:00 p.m.		iii. 3:00 p.m.		iv. 2:00 p.m.  
-3. What time is 5 hours after 8:00 a.m.?  
-   i. 1:00 p.m.		ii. 3:00 p.m.		iii. 12:00 p.m.		iv. 2:00 p.m.  
-### **Section 3: Money**
-#### **1. Fill in the Blanks:**
-1. 1 rupee = ___ paise
-2. ₹1.50 = ___ paise
-3. ₹0.75 = ___ paise
-4. 100 paise = ___ rupees
-#### **2. Word Problems:**
-1. A shopkeeper sells a toy for ₹125. If you pay with a ₹200 note, how much change will you get?
-2. Anu spends ₹50 on a pencil and ₹100 on a notebook. How much did she spend altogether?
-3. Ramesh has ₹500. He buys a pair of shoes for ₹325. How much money is left with him?
-#### **3. Multiple Choice Questions (MCQs):**
-1. How many 25 paise coins make ₹10?  
-   i. 40		ii. 50		iii. 100		iv. 200  
-2. ₹72.40 is equal to:  
-   i. 7240 paise		ii. 724 paise		iii. 720 paise		iv. 7440 paise  
-3. ₹325.50 + ₹475.25 is equal to:  
-   i. ₹800.75		ii. ₹799.75		iii. ₹800.50		iv. ₹801.75  
-4. How many 10 paise coins make ₹2?  
-   i. 200		ii. 20		iii. 10		iv. 100
-### **Section 4: Mixed Questions**
+### **Section A: Mixed Questions**
 ### 1. Write the following amounts in words:
    - (a) ₹178.40        (b) ₹52.30        (c) ₹293.10        (d) ₹134.70        (e) ₹405.90  
 (f) ₹263.80        (g) ₹49.50         (h) ₹168.90        (i) ₹219.60        (j) ₹347.20  
@@ -544,3 +484,58 @@
 (p) ₹115.20 ÷ 6    (q) ₹180.60 ÷ 5    (r) ₹72.50 ÷ 7     (s) ₹56.70 ÷ 9     (t) ₹89.90 ÷ 2  
 (u) ₹131.60 ÷ 8    (v) ₹150.40 ÷ 4    (w) ₹47.20 ÷ 3    (x) ₹71.90 ÷ 6     (y) ₹220.70 ÷ 7  
 (z) ₹99.40 ÷ 5     (aa) ₹62.80 ÷ 8  
+
+### **Section B: Word Questions**
+#### **Time and Calendar**
+1. **Rahul wakes up at 5:00 every morning. What time does he wake up?**
+2. **Sonam goes to school at 7:30 AM. What time is this in 24-hour format?**
+3. **Yuvraj has his breakfast at 8:00 AM. What time is it in the evening when it’s 8:00 PM?**
+4. **Amit takes a bath at 6:00 in the morning. What time is this in the 24-hour format?**
+5. **Parul returns from school at 2:30 PM. What time is this in the morning?**
+6. **Anubhav completes his math homework by 7:30 PM. What time was it when he started his homework if it took him 2 hours to complete?**
+7. **Geeta earns ₹79 every day. How much will she earn in 30 days?**
+8. **A man had ₹2500 and bought a shirt for ₹1122 and trousers for ₹978.50. How much money was left with him?**
+9. **Anu got ₹1255.75 from her grandfather, ₹2051 from her grandmother, and ₹555.50 from her father. How much money did she get altogether?**
+10. **Anita bought 8 pens for ₹67.60. How much did each pen cost her?**
+11. **Sonal collected ₹250 from each of her 9 friends for flood victims. What is the total amount collected?**
+12. **If 9 kg of potatoes cost ₹88.20, how much does 1 kg cost?**
+13. **Five friends went on a picnic and spent ₹78.75. How much does each friend have to pay?**
+14. **A shopkeeper is selling ghee at ₹990 per kg. Suresh buys 5 kg. How much will he pay?**
+15. **If 9 candles cost ₹47.70, how much does 1 candle cost?**
+16. **What time is 8 hours after 10:30 AM?**
+17. **If today is Sunday, what day was it 3 days ago?**
+18. **12 o'clock at night is called midnight. What is 12 o'clock at noon called?**
+19. **How many days are there in a leap year?**
+20. **How many weeks are in a year?**
+21. **How many minutes are in one hour?**
+22. **What is the time 3 hours after 2:30 PM?**
+23. **What time is 3 hours before midnight?**
+24. **If the cost of 7 kg tomatoes is ₹94.85, what is the cost of 1 kg of tomatoes?**
+25. **If ₹37.05 is multiplied by 8, what is the total?**
+
+#### **Currency Conversion and Mental Math**
+26. **How many 50 paise coins make ₹10?**
+27. **₹18.05 is equal to how many paise?**
+28. **5780 paise is equal to how many rupees?**
+29. **To convert rupees into paise, we multiply by what number?**
+30. **Twenty-nine rupees and thirty paise in figures is ₹?**
+31. **₹359.78 + ₹462.42 is equal to what?**
+32. **₹725.50 - ₹348.76 is equal to what?**
+33. **98 paise x 9 is equal to what amount in rupees?**
+34. **₹50.04 x 6 is equal to what?**
+35. **If Geeta earns ₹79 every day, how much does she earn in the month of July (31 days)?**
+36. **A man buys a shirt for ₹1122 and trousers for ₹978.50. How much was the total cost of his purchases?**
+37. **Anu received ₹1255.75, ₹2051, and ₹555.50. What is the total amount she received?**
+38. **Anita buys 8 pens for ₹67.60. What is the cost of 5 pens?**
+39. **If 1 kg of potatoes costs ₹8.80, how much does 4 kg cost?**
+40. **If a shopkeeper sells ghee at ₹990 per kg, how much will 3 kg cost?**
+41. **The cost of 9 candles is ₹47.70. What is the cost of 1 candle?**
+42. **How much does each friend have to pay if 5 friends spent ₹78.75 on a picnic?**
+43. **How much will Suresh pay for 5 kg of ghee if the price is ₹990 per kg?**
+44. **If 7 kg of tomatoes costs ₹94.85, what is the cost of 3 kg of tomatoes?**
+45. **If ₹37.05 is multiplied by 8, what is the total?**
+46. **How much money does Sonal have if she collects ₹250 from each of her 9 friends for flood victims?**
+47. **A shopkeeper sells 8 pens for ₹67.60. How much will 4 pens cost?**
+48. **If the cost of 9 kg potatoes is ₹88.20, how much does 2 kg cost?**
+49. **If 9 candles cost ₹47.70, what is the cost of 5 candles?**
+50. **How many 50 paise coins are needed to make ₹5?**
