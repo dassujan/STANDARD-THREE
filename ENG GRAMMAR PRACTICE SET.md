@@ -220,8 +220,19 @@ Fill in the blanks with suitable conjunctions:
 3. **(Present Tense)**  
    - She will sing a song at the concert tomorrow.  
    - We painted a picture yesterday.  
- 
-### **Section G: Fill in the Blanks Using Verbs**  
+
+### **Section G: Match the Columns**  
+**Match the verb with its correct tense:**  
+
+| Column A (Verb)       | Column B (Tense)       |  
+|-----------------------|------------------------|  
+| They were playing     | Present Continuous     |  
+| The dog barks         | Future Simple          |  
+| He ate lunch          | Past Continuous        |  
+| She is writing        | Past Simple            |  
+| We will travel        | Present Simple         |  
+
+### **Section H: Fill in the Blanks Using Verbs**  
 **Complete the sentences with the correct form of the verb:**  
 1. The teacher ___ the students to the museum. (take)  
 2. She ___ her homework before going to play. (finish)  
@@ -234,21 +245,7 @@ Fill in the blanks with suitable conjunctions:
 9. They ___ stories about their adventures. (tell)  
 10. She ___ on the couch after a long day. (sit)  
  
-### **Section H: Match the Columns**  
-**Match the verb with its correct tense:**  
 
-| Column A (Verb)       | Column B (Tense)       |  
-|-----------------------|------------------------|  
-| They were playing     | Present Continuous     |  
-| The dog barks         | Future Simple          |  
-| He ate lunch          | Past Continuous        |  
-| She is writing        | Past Simple            |  
-| We will travel        | Present Simple         |  
- 
-### **Section I: Story Completion**  
-**Fill in the blanks using appropriate verbs to complete the story:**  
-
-Anushka ___ (wake) up early in the morning. She ___ (take) her bath quickly and ___ (eat) breakfast. She ___ (run) to the school bus as it ___ (arrive) just in time. The teacher ___ (tell) the class about their trip to the post office. They ___ (write) letters and ___ (post) them. Later, the children ___ (receive) replies from their parents and ___ (feel) very happy.  
   
 ## **Practice Set - 3: Verbs, Tenses, and Conjunctions**  
   
