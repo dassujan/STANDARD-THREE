@@ -236,13 +236,14 @@ Fill in the blanks with suitable conjunctions:
  
 ### **Section H: Match the Columns**  
 **Match the verb with its correct tense:**  
+
 | Column A (Verb)       | Column B (Tense)       |  
 |-----------------------|------------------------|  
-| She is writing        | Present Continuous     |  
-| He ate lunch          | Past Simple            |  
-| We will travel        | Future Simple          |  
-| The dog barks         | Present Simple         |  
-| They were playing     | Past Continuous        |  
+| They were playing     | Present Continuous     |  
+| The dog barks         | Future Simple          |  
+| He ate lunch          | Past Continuous        |  
+| She is writing        | Past Simple            |  
+| We will travel        | Present Simple         |  
  
 ### **Section I: Story Completion**  
 **Fill in the blanks using appropriate verbs to complete the story:**  
@@ -361,11 +362,11 @@ Anushka ___ (wake) up early every morning. She ___ (take) a quick bath and ___ (
 
 | Column A (Verb)       | Column B (Tense)       |  
 |-----------------------|------------------------|  
-| She is dancing        | Present Continuous     |  
-| He wrote a story      | Past Simple            |  
-| We will visit the zoo | Future Simple          |  
-| The dog barks         | Present Simple         |  
-| They were studying    | Past Continuous        |  
+| We will visit the zoo | Present Simple         |  
+| They were studying    | Future Simple          |  
+| He wrote a story      | Past Continuous        |  
+| She is dancing        | Past Simple            |  
+| The dog barks         | Present Continuous     |  
   
 ### **Section I: Identify the Errors**  
 **Spot and correct the errors in the sentences below:**  
