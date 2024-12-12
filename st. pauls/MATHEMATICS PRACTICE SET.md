@@ -345,18 +345,6 @@
 #### **4. Convert the Following:**
 1. ₹45.60 into paise.
 2. 5000 paise into rupees.
- 
-
-### **Bonus Section: Concept Application**
-
-#### **1. Cost Calculation:**
-- If 1 kg of rice costs ₹22.50, how much will 8 kg of rice cost?
-
-#### **2. Word Problem:**
-- A shopkeeper is selling chocolates at ₹12 each. If a customer buys 10 chocolates, how much will they pay?
-
-#### **3. Calculate Total Earnings:**
-- Suresh earns ₹50 per day. How much will he earn in 30 days?
 
 ## Practice Set - 3
 
@@ -503,8 +491,7 @@
 #### **3. Calculate the Total Earnings:**
 - Geeta earns ₹85 per day. How much will she earn in 30 days?
 
-Here’s another **practice set** for **Class 3 ICSE Board Level Exam**, based on your previously shared data from the chapters on **Calendar**, **Time**, and **Money**. This set contains important questions to help you prepare for the exam:
-  
+## Practice Set - 4
 
 ### **Section 1: Calendar**
 
@@ -634,15 +621,3 @@ Here’s another **practice set** for **Class 3 ICSE Board Level Exam**, based o
 #### **4. Multiply the Following:**
 1. ₹14.50 × 6  
 2. ₹9.75 × 8  
-  
-
-### **Bonus Section: Concept Application**
-
-#### **1. Cost Calculation:**
-- If 1 kg of apples costs ₹40, how much will 4 kg cost?
-
-#### **2. Word Problem:**
-- A shopkeeper is selling chocolates at ₹15 each. How much will 7 chocolates cost?
-
-#### **3. Calculate the Total Earnings:**
-- Geeta earns ₹80 per day. How much will she earn in 25 days?
