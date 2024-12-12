@@ -15,7 +15,7 @@
      a) 30 b) 31 c) 28 d) 29  
 
 3. **Short Questions**:
-   - Write the number of days in each month.
+   - List the months that have 30 days.
    - Which months have 31 days?
  
 ### **Section 2: Time**
