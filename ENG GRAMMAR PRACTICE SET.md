@@ -324,18 +324,28 @@ Anushka ___ (wake) up early in the morning. She ___ (take) her bath quickly and 
 9. The flowers ___ blooming beautifully in spring.  
 10. The children ___ very tired after the long trip.  
   
-### **Section E: Conjunctions**  
-**Fill in the blanks with "and," "but," "or," or "so":**  
-1. I wanted to play outside, ___ it started raining.  
-2. Would you like tea ___ coffee?  
-3. She likes to read books ___ draw pictures.  
-4. The cake was delicious, ___ it was too sweet.  
-5. It was very cold, ___ we stayed indoors.  
-6. He is very clever, ___ he is not hardworking.  
-7. Shall we go to the park ___ stay at home?  
-8. The boy tried hard, ___ he couldn’t win the race.  
-9. The students were making noise, ___ the teacher scolded them.  
-10. You can take a red pen ___ a blue one.  
+### **Section E: Conjunctions ("because," "as," "since," "after," "before," "while")**  
+**Fill-in-the-blank questions ("because," "as," "since," "after," "before," "while"):** 
+1. Shalini couldn't buy any Christmas presents ______ she didn't have any money.  
+2. ______ Radhika doesn't speak English, she can't go to England.  
+3. I will be late today ______ my car has broken down.  
+4. Mother packed the bags ______ the children were taking their bath.  
+5. Stir the mixture with a spoon ______ adding water to it.  
+6. Finish your work ______ you go down to play.  
+7. Shilpa cut the cake ______ she blew out the candles.  
+8. Everybody had the pudding ______ they finished eating the main meal.  
+9. I will go home ______ it is 6 o'clock.  
+10. We should stay away from bears ______ they are dangerous.  
+11. I took my umbrella ______ it was raining.  
+12. You can go home ______ you have finished your work.  
+13. We can go out to play ______ it stops raining.  
+14. They were tired ______ they had been walking all day.  
+15. He will call you ______ he arrives home.  
+16. I stayed at home ______ my parents were out.  
+17. I went to bed early ______ I had to wake up early.  
+18. The children laughed ______ they heard the funny joke.  
+19. You need to brush your teeth ______ you go to bed.  
+20. I couldn’t attend the meeting ______ I was feeling unwell.  
   
 ### **Section F: Rewrite the Sentences in the Correct Tense**  
 **Change the sentences into the given tense:**  
