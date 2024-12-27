@@ -406,49 +406,8 @@ Fill in the blanks with "and," "but," "or," "because," or "so":
 3. Would you like coffee ___ tea?  
 4. The students were happy ___ they won the competition.  
 5. It was raining heavily, ___ we decided to stay home.  
- 
-### **Practice Set - 16: Verbs, Tenses, and Conjunctions**
 
-#### **Section A: Identify the Verbs**  
-Underline the verbs in the sentences:  
-1. The children are building a sandcastle on the beach.  
-2. She is learning a new language.  
-3. My father fixed the broken table yesterday.  
-4. The kids were jumping with joy at the party.  
-5. He will perform a magic trick at the event.  
-
-#### **Section B: Fill in the Blanks with Verbs**  
-1. The bird ___ happily in the tree. (sing)  
-2. The teacher ___ the students about the solar system yesterday. (teach)  
-3. She ___ her room every evening. (clean)  
-4. We ___ to the amusement park tomorrow. (go)  
-5. He ___ his car in the garage every weekend. (park)  
-
-#### **Section C: Rewrite the Sentences in the Given Tense**  
-1. **(Future Tense)**  
-   - She walks to school every morning.  
-   - The children are laughing at the funny clown.  
-2. **(Past Tense)**  
-   - He writes a poem every month.  
-   - We are studying for our exams today.  
-
-#### **Section D: Helping Verbs**  
-Complete the sentences with "is," "am," "are," "was," or "were":  
-1. The children ___ playing in the park.  
-2. I ___ feeling tired after the long day.  
-3. She ___ not at school yesterday.  
-4. The flowers ___ blooming beautifully in the garden.  
-5. He ___ the leader of the group last year.  
-
-#### **Section E: Conjunctions**  
-Fill in the blanks with "before," "after," "while," "because," or "so":  
-1. She finished her homework ___ she went out to play.  
-2. He was late to the meeting ___ his car broke down.  
-3. We stayed inside ___ it was raining.  
-4. The children were laughing ___ watching a funny show.  
-5. I will complete the task ___ the deadline.  
-
-## **Practice Set - 17: Verbs, Tenses, and Conjunctions**  
+## **Practice Set - 16: Verbs, Tenses, and Conjunctions**  
 
 ### **Section A: Identify and Underline the Verbs**  
 Underline the verbs in the following sentences:  
