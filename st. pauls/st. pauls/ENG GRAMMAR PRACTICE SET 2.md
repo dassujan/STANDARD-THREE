@@ -447,3 +447,108 @@ Fill in the blanks with "before," "after," "while," "because," or "so":
 3. We stayed inside ___ it was raining.  
 4. The children were laughing ___ watching a funny show.  
 5. I will complete the task ___ the deadline.  
+
+## **Practice Set - 17: Verbs, Tenses, and Conjunctions**  
+
+### **Section A: Identify and Underline the Verbs**  
+Underline the verbs in the following sentences:  
+1. The sun sets in the west.  
+2. The baby laughed at the funny clown.  
+3. We are learning a new song in music class.  
+4. He cleaned his room before dinner.  
+5. The horse galloped across the field.  
+6. She is reading a book in the library.  
+7. The stars twinkle brightly at night.  
+8. They were discussing the project yesterday.  
+9. He plays the guitar beautifully.  
+10. The birds built a nest in the tree.  
+ 
+### **Section B: Fill in the Blanks with the Correct Form of the Verb**  
+**Choose the correct form of the verb:**  
+1. The dog ___ loudly at the stranger. (bark)  
+2. I ___ my homework before dinner every day. (finish)  
+3. They ___ to the park tomorrow morning. (go)  
+4. She ___ her friend’s birthday last week. (celebrate)  
+5. The boy ___ his kite in the garden. (fly)  
+6. The teacher ___ a story to the class right now. (read)  
+7. My father ___ delicious pasta for dinner yesterday. (cook)  
+8. The children ___ to the zoo next weekend. (travel)  
+9. He ___ a letter to his sister yesterday. (write)  
+10. We ___ a movie together last night. (watch)  
+ 
+### **Section C: Identify the Tense**  
+**State the tense (Present, Past, or Future) of the underlined verbs:**  
+1. She **is playing** chess with her brother.  
+2. The train **arrived** late last night.  
+3. We **will celebrate** Diwali next week.  
+4. He **writes** in his journal every night.  
+5. They **were running** to catch the train.  
+6. She **sang** beautifully during the concert.  
+7. I **am studying** for my exams right now.  
+8. He **will join** the basketball team next season.  
+9. The children **played** in the park after school.  
+10. My mother **bakes** cakes every Sunday.  
+ 
+### **Section D: Helping Verbs**  
+**Fill in the blanks with "is," "am," "are," "was," or "were":**  
+1. I ___ reading a storybook right now.  
+2. They ___ excited for the school trip yesterday.  
+3. The garden ___ full of colorful flowers in spring.  
+4. She ___ writing an essay for the competition.  
+5. He ___ the captain of the cricket team last year.  
+6. We ___ practicing for the play yesterday evening.  
+7. The dog ___ barking loudly at night.  
+8. The stars ___ shining brightly in the clear sky.  
+9. I ___ happy to see my friends after a long time.  
+10. They ___ studying hard for the exams last week.  
+ 
+### **Section E: Conjunctions (and, but, or, so)**  
+**Fill in the blanks with suitable conjunctions:**  
+1. The children wanted to play outside, ___ it was raining.  
+2. You can have tea ___ coffee after dinner.  
+3. She wanted to buy the dress, ___ it was too expensive.  
+4. We were tired, ___ we went home early.  
+5. Shall we watch a movie ___ go for a walk?  
+6. He likes to sing ___ dance in his free time.  
+7. She is very talented, ___ she is also very humble.  
+8. I forgot to set an alarm, ___ I woke up late.  
+9. Would you like an apple ___ a banana?  
+10. The cake was delicious, ___ it was too sweet for me.  
+ 
+### **Section F: Rewrite the Sentences in the Given Tense**  
+
+1. **(Future Tense)**  
+   - The children play in the park every afternoon.  
+   - She dances gracefully during the function.  
+
+2. **(Past Tense)**  
+   - He studies for his exams every day.  
+   - We eat lunch together in the cafeteria.  
+
+3. **(Present Tense)**  
+   - They will visit the museum next weekend.  
+   - She painted a beautiful picture last night.  
+ 
+### **Section G: Match the Columns**  
+**Match the verb with its correct tense:**  
+
+| Column A (Verb)       | Column B (Tense)       |  
+|-----------------------|------------------------|  
+| She is painting       | Future Simple          |  
+| The train arrived     | Present Continuous     |  
+| They will go          | Past Simple            |  
+| He was running        | Present Simple         |  
+| The children play     | Past Continuous        |  
+ 
+### **Section H: Fill in the Blanks Using Verbs**  
+**Complete the story using the appropriate verbs:**  
+
+Rohan ___ (wake) up early every morning. He ___ (brush) his teeth and ___ (get) ready for school. His mother ___ (prepare) a healthy breakfast for him. After eating, Rohan ___ (walk) to the bus stop with his friends. At school, he ___ (enjoy) his lessons and ___ (learn) something new every day. When he returned home, he ___ (do) his homework and then ___ (play) with his dog in the garden.  
+ 
+### **Section I: Identify the Errors**  
+**Spot and correct the errors in the sentences below:**  
+1. She write a letter to her grandmother every week.  
+2. The boys was playing football in the park.  
+3. He will goes to the market tomorrow.  
+4. I am study for my exams now.  
+5. We was happy to attend the function yesterday.  
