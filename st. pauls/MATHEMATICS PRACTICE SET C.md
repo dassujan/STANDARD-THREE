@@ -386,39 +386,37 @@
 (p) ₹166.50 ÷ 6 (q) ₹459.20 ÷ 7 (r) ₹671.80 ÷ 9 (s) ₹359.90 ÷ 2 (t) ₹537.50 ÷ 4  
 (u) ₹493.20 ÷ 6 (v) ₹624.70 ÷ 5 (w) ₹472.50 ÷ 3 (x) ₹395.20 ÷ 7 (y) ₹238.40 ÷ 8
 
----
-
 ### **Section B: Word Questions**
 
-#### **Time and Calendar**
+#### **1. Length**  
+1. A rope is 76 m 25 cm long. Another rope is 48 m 15 cm long. What is the total length of the two ropes?  
+2. Seema walked 1 km 350 m in the morning and 750 m in the evening. How much distance did she walk in total?  
+3. A roll of ribbon is 45 m 80 cm long. 25 m 60 cm is cut from it. How much ribbon is left?  
+4. A farmer has 1 km 250 m of fencing wire. He used 675 m. How much wire is left with him?  
+5. A train covered a distance of 5 km 375 m in the first hour and 6 km 820 m in the second hour. What is the total distance covered by the train in two hours?  
 
-1. Rahul wakes up at 5:15 every morning. What time does he wake up?
-2. Sonam goes to school at 8:00 AM. What time is this in 24-hour format?
-3. Yuvraj has his lunch at 12:00 PM. What time is it in the evening when it’s 7:30 PM?
-4. Anita wakes up at 6:30 in the morning. What time is this in the 24-hour format?
-5. Anjali returns from school at 4:15 PM. What time is this in the morning?
-6. Vivek completes his homework by 9:00 PM. What time was it when he started his homework if it took him 3 hours to complete?
-7. Sonali earns ₹105 every day. How much will she earn in 30 days?
-8. A man had ₹3500 and bought a book for ₹1500 and shoes for ₹980. How much money was left with him?
-9. Sameer received ₹2250.75 from his uncle, ₹1985 from his aunt, and ₹480.50 from his father. How much money did he receive altogether?
-10. Priya bought 5 pens for ₹49.90. How much did each pen cost her?
-11. Aman collected ₹500 from each of his 10 friends for charity. What is the total amount collected?
-12. If 7 kg of potatoes cost ₹56.50, how much does 1 kg cost?
-13. Five friends went on a picnic and spent ₹98.60. How much does each friend have to pay?
-14. A shopkeeper is selling milk at ₹45 per litre. Ramesh buys 10 litres. How much will he pay?
-15. If 8 candles cost ₹34.40, how much does 1 candle cost?
-16. What time is 7 hours after 10:30 AM?
-17. If today is Friday, what day was it 4 days ago?
-18. 12 o'clock at noon is called noon. What is 12 o'clock at midnight called?
-19. How many days are there in a leap year?
-20. How many weeks are in a year?
-21. How many seconds are in one minute?
-22. What is the time 4 hours after 1:00 PM?
-23. What time is 5 hours before midnight?
-24. If the cost of 5 kg tomatoes is ₹65.50, what is the cost of 1 kg of tomatoes?
-25. If ₹45.90 is multiplied by 6, what is the total?
+#### **2. Weight**  
+6. A watermelon weighs 3 kg 250 g, and a bunch of bananas weighs 2 kg 750 g. What is their total weight?  
+7. A bag of sugar weighs 15 kg. 4 kg 350 g of sugar is used. How much sugar is left in the bag?  
+8. A truck can carry 850 kg of goods. It has already carried 520 kg. How much more weight can it carry?  
+9. Meera bought a 5 kg 200 g bag of rice and a 2 kg 750 g bag of flour. What is the total weight of both items?  
+10. A shopkeeper had 25 kg of apples. He sold 18 kg 750 g. How much weight of apples is still left with him?  
 
-#### **Currency Conversion and Mental Math**
+#### **3. Capacity**  
+11. A tank can hold 100 L of water. Currently, it has 73 L 500 mL of water. How much more water can the tank hold?  
+12. A milkman delivered 15 L 750 mL of milk in the morning and 12 L 250 mL in the evening. How much milk did he deliver in total?  
+13. A bottle of juice contains 2 L 500 mL of juice. If 1 L 750 mL is poured out, how much juice is left in the bottle?  
+14. A drum has a capacity of 200 L. It is filled with 135 L 600 mL of oil. How much more oil can be added to fill the drum?  
+15. Reema drank 1 L 250 mL of water in the morning and 1 L 500 mL in the evening. How much water did she drink in total?  
+
+#### **4. Mixed Measurements**  
+16. A rectangular garden has a length of 125 m 50 cm and a width of 75 m 25 cm. What is the total perimeter of the garden?  
+17. A truck carried 1 tonne 250 kg of goods. If it unloads 850 kg, how much weight remains in the truck?  
+18. A family uses 6 kg 750 g of flour in a week. If they buy 15 kg of flour, how much will be left at the end of the week?  
+19. A juice factory filled 25 bottles with 1 L 750 mL of juice in each bottle. What is the total quantity of juice filled?  
+20. An airplane flew 8 km 550 m in the first hour and 12 km 425 m in the second hour. What was the total distance flown in two hours?  
+
+#### **5. Currency Conversion and Mental Math**
 
 1. How many 25 paise coins make ₹5?
 2. ₹23.45 is equal to how many paise?
