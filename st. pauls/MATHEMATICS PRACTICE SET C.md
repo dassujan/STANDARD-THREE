@@ -112,8 +112,6 @@
 (u) 15000 mL, (v) 6000 mL, (w) 1100 mL, (x) 8000 mL,  
 (y) 13000 mL, (z) 11500 mL  
 
-Here’s a new practice set, structured similarly to the one you shared:
- 
 ## **Practice Set - 2**
 
 ### **Section A: Calendar**
@@ -228,8 +226,6 @@ Here’s a new practice set, structured similarly to the one you shared:
 (u) 19000 mL, (v) 20000 mL, (w) 21000 mL, (x) 22000 mL,  
 (y) 23000 mL, (z) 24000 mL  
 
-Here is another practice set, structured the same way as your original practice set:
- 
 ## **Practice Set - 3**
 
 ### **Section A: Calendar**
@@ -340,3 +336,92 @@ Here is another practice set, structured the same way as your original practice 
 (m) 14000 mL, (n) 15000 mL, (o) 16000 mL, (p) 17000 mL,  
 (q) 18000 mL, (r) 19000 mL, (s) 20000 mL, (t) 21000 mL,  
 (u) 22000 mL, (v) 23000 mL, (w) 24000 mL, (x) 25000 mL,  
+
+## **Practice Set - 4**
+
+### **Section A: Mixed Questions**
+
+#### **1. Write the following amounts in words:**
+(a) ₹158.60 (b) ₹420.75 (c) ₹312.90 (d) ₹98.40 (e) ₹789.10  
+(f) ₹517.20 (g) ₹638.50 (h) ₹147.60 (i) ₹275.30 (j) ₹492.80  
+(k) ₹350.60 (l) ₹619.70 (m) ₹178.50 (n) ₹213.40 (o) ₹413.10  
+(p) ₹631.20 (q) ₹296.90 (r) ₹85.50 (s) ₹524.70 (t) ₹972.90  
+(u) ₹123.60 (v) ₹741.50 (w) ₹55.80 (x) ₹206.20 (y) ₹888.40
+
+#### **2. Convert the following:**
+(a) ₹256.80 into paise (b) ₹125.40 into paise (c) ₹78.30 into paise (d) ₹497.60 into paise  
+(e) ₹350.90 into paise (f) ₹88.10 into paise (g) ₹212.50 into paise (h) ₹75.30 into paise  
+(i) ₹150.60 into paise (j) ₹97.90 into paise (k) ₹264.40 into paise (l) ₹49.50 into paise  
+(m) ₹141.20 into paise (n) ₹219.70 into paise (o) ₹368.80 into paise (p) ₹598.90 into paise  
+(q) ₹478.30 into paise (r) ₹161.80 into paise (s) ₹88.70 into paise (t) ₹68.60 into paise  
+(u) ₹79.40 into paise (v) ₹352.60 into paise (w) ₹140.90 into paise (x) ₹242.30 into paise
+
+#### **3. Add the following:**
+(a) ₹432.50 + ₹123.30 (b) ₹287.40 + ₹56.60 (c) ₹189.80 + ₹210.20 (d) ₹325.10 + ₹148.50  
+(e) ₹423.60 + ₹178.40 (f) ₹657.80 + ₹243.30 (g) ₹310.20 + ₹230.10 (h) ₹415.80 + ₹134.90  
+(i) ₹295.60 + ₹201.70 (j) ₹220.50 + ₹123.90 (k) ₹350.90 + ₹121.40 (l) ₹211.80 + ₹192.50  
+(m) ₹578.20 + ₹359.70 (n) ₹450.10 + ₹200.50 (o) ₹289.70 + ₹378.20 (p) ₹127.30 + ₹89.60  
+(q) ₹586.40 + ₹276.10 (r) ₹228.90 + ₹189.30 (s) ₹103.40 + ₹256.90 (t) ₹564.70 + ₹138.60  
+(u) ₹309.40 + ₹186.50 (v) ₹258.90 + ₹112.40 (w) ₹197.80 + ₹303.50 (x) ₹152.30 + ₹235.20
+
+#### **4. Subtract the following:**
+(a) ₹645.60 - ₹231.40 (b) ₹539.90 - ₹178.20 (c) ₹895.60 - ₹325.70 (d) ₹421.50 - ₹217.80  
+(e) ₹785.40 - ₹356.30 (f) ₹908.20 - ₹435.50 (g) ₹578.70 - ₹245.60 (h) ₹694.20 - ₹128.90  
+(i) ₹314.60 - ₹142.30 (j) ₹568.90 - ₹231.40 (k) ₹987.60 - ₹456.70 (l) ₹576.40 - ₹389.10  
+(m) ₹654.50 - ₹289.20 (n) ₹472.30 - ₹223.40 (o) ₹893.70 - ₹394.50 (p) ₹641.60 - ₹352.30  
+(q) ₹702.90 - ₹411.70 (r) ₹839.30 - ₹265.60 (s) ₹507.80 - ₹219.10 (t) ₹975.50 - ₹356.80  
+(u) ₹563.20 - ₹147.30 (v) ₹418.50 - ₹249.60 (w) ₹856.20 - ₹312.40 (x) ₹490.60 - ₹157.30
+
+#### **5. Multiply the following:**
+(a) ₹14.60 × 9 (b) ₹25.80 × 7 (c) ₹43.90 × 6 (d) ₹35.20 × 5 (e) ₹72.30 × 4  
+(f) ₹111.40 × 8 (g) ₹51.60 × 12 (h) ₹66.50 × 3 (i) ₹27.70 × 10 (j) ₹12.30 × 15  
+(k) ₹82.90 × 5 (l) ₹97.60 × 11 (m) ₹58.40 × 6 (n) ₹42.50 × 9 (o) ₹33.60 × 7  
+(p) ₹20.30 × 12 (q) ₹61.80 × 5 (r) ₹74.70 × 4 (s) ₹13.90 × 18 (t) ₹39.60 × 7  
+(u) ₹48.50 × 10 (v) ₹19.70 × 14 (w) ₹56.60 × 3 (x) ₹38.80 × 8 (y) ₹82.70 × 6
+
+#### **6. Division the following:**
+(a) ₹63.50 ÷ 7 (b) ₹86.40 ÷ 6 (c) ₹112.60 ÷ 5 (d) ₹478.80 ÷ 4 (e) ₹289.70 ÷ 3  
+(f) ₹364.40 ÷ 9 (g) ₹493.50 ÷ 5 (h) ₹637.40 ÷ 8 (i) ₹372.80 ÷ 6 (j) ₹184.20 ÷ 7  
+(k) ₹243.90 ÷ 3 (l) ₹315.60 ÷ 4 (m) ₹528.70 ÷ 2 (n) ₹91.60 ÷ 5 (o) ₹288.40 ÷ 8  
+(p) ₹166.50 ÷ 6 (q) ₹459.20 ÷ 7 (r) ₹671.80 ÷ 9 (s) ₹359.90 ÷ 2 (t) ₹537.50 ÷ 4  
+(u) ₹493.20 ÷ 6 (v) ₹624.70 ÷ 5 (w) ₹472.50 ÷ 3 (x) ₹395.20 ÷ 7 (y) ₹238.40 ÷ 8
+
+---
+
+### **Section B: Word Questions**
+
+#### **Time and Calendar**
+
+1. Rahul wakes up at 5:15 every morning. What time does he wake up?
+2. Sonam goes to school at 8:00 AM. What time is this in 24-hour format?
+3. Yuvraj has his lunch at 12:00 PM. What time is it in the evening when it’s 7:30 PM?
+4. Anita wakes up at 6:30 in the morning. What time is this in the 24-hour format?
+5. Anjali returns from school at 4:15 PM. What time is this in the morning?
+6. Vivek completes his homework by 9:00 PM. What time was it when he started his homework if it took him 3 hours to complete?
+7. Sonali earns ₹105 every day. How much will she earn in 30 days?
+8. A man had ₹3500 and bought a book for ₹1500 and shoes for ₹980. How much money was left with him?
+9. Sameer received ₹2250.75 from his uncle, ₹1985 from his aunt, and ₹480.50 from his father. How much money did he receive altogether?
+10. Priya bought 5 pens for ₹49.90. How much did each pen cost her?
+11. Aman collected ₹500 from each of his 10 friends for charity. What is the total amount collected?
+12. If 7 kg of potatoes cost ₹56.50, how much does 1 kg cost?
+13. Five friends went on a picnic and spent ₹98.60. How much does each friend have to pay?
+14. A shopkeeper is selling milk at ₹45 per litre. Ramesh buys 10 litres. How much will he pay?
+15. If 8 candles cost ₹34.40, how much does 1 candle cost?
+16. What time is 7 hours after 10:30 AM?
+17. If today is Friday, what day was it 4 days ago?
+18. 12 o'clock at noon is called noon. What is 12 o'clock at midnight called?
+19. How many days are there in a leap year?
+20. How many weeks are in a year?
+21. How many seconds are in one minute?
+22. What is the time 4 hours after 1:00 PM?
+23. What time is 5 hours before midnight?
+24. If the cost of 5 kg tomatoes is ₹65.50, what is the cost of 1 kg of tomatoes?
+25. If ₹45.90 is multiplied by 6, what is the total?
+
+#### **Currency Conversion and Mental Math**
+
+1. How many 25 paise coins make ₹5?
+2. ₹23.45 is equal to how many paise?
+3. 3780 paise is equal to how many rupees?
+4. To convert rupees into paise, multiply by which number?
+5. To convert paise into rupees, divide by which number?
