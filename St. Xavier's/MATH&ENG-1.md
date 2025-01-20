@@ -143,21 +143,13 @@
 89. Use the fact 12 × 4 = 48 to write division facts.
 90. For 3 × 9 = 27, write two division facts.
 
-**Division Properties**
-
-91. Divide 14 ÷ 1
-92. 26 ÷ 26 = _
-93. Divide 0 ÷ 9
-94. Solve 25 ÷ 1
-95. Divide 9 ÷ 1
-
 **Mixed Practice**
 
-96. A book has 100 pages. If a student reads 20 pages daily, how many days will it take?
-97. A box has 200 chocolates packed in 20 smaller boxes. How many chocolates are in each small box?
-98. If 36 apples are packed into baskets with 6 apples each, how many baskets are there?
-99. A car travels 180 km in 6 hours. How far does it travel in 1 hour?
-100. There are 144 bananas. How many groups of 12 can be made?
+91. A book has 100 pages. If a student reads 20 pages daily, how many days will it take?
+92. A box has 200 chocolates packed in 20 smaller boxes. How many chocolates are in each small box?
+93. If 36 apples are packed into baskets with 6 apples each, how many baskets are there?
+94. A car travels 180 km in 6 hours. How far does it travel in 1 hour?
+95. There are 144 bananas. How many groups of 12 can be made?
 
 # **ENGLISH GRAMMAR PRACTICE QUESTIONS**
 
