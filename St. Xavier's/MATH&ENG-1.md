@@ -143,13 +143,21 @@
 89. Use the fact 12 × 4 = 48 to write division facts.
 90. For 3 × 9 = 27, write two division facts.
 
+**Division Properties**
+
+91. Divide 14 ÷ 1
+92. 26 ÷ 26 = _
+93. Divide 0 ÷ 9
+94. Solve 25 ÷ 1
+95. Divide 9 ÷ 1
+
 **Mixed Practice**
 
-91. A book has 100 pages. If a student reads 20 pages daily, how many days will it take?
-92. A box has 200 chocolates packed in 20 smaller boxes. How many chocolates are in each small box?
-93. If 36 apples are packed into baskets with 6 apples each, how many baskets are there?
-94. A car travels 180 km in 6 hours. How far does it travel in 1 hour?
-95. There are 144 bananas. How many groups of 12 can be made?
+96. A book has 100 pages. If a student reads 20 pages daily, how many days will it take?
+97. A box has 200 chocolates packed in 20 smaller boxes. How many chocolates are in each small box?
+98. If 36 apples are packed into baskets with 6 apples each, how many baskets are there?
+99. A car travels 180 km in 6 hours. How far does it travel in 1 hour?
+100. There are 144 bananas. How many groups of 12 can be made?
 
 # **ENGLISH GRAMMAR PRACTICE QUESTIONS**
 
@@ -224,6 +232,9 @@
 13. Rewrite the sentence: He will come home at night. (Add an adverb of manner.)
 14. Fill in the blank: The wind blew ___. (strongly)
 15. Write a sentence using "yesterday."
+16. Write the adverbs and Identify which adverbs show **manner**, **time**, or **place**.
+17. Maya ran quickly across the playground as the bell rang. She always liked to be on time. Carefully, she placed her books on the desk and greeted her teacher politely. During recess, Maya and her friends sat happily under the tree, sharing snacks. They promised to meet again tomorrow to play their favorite game.
+18. The cat crept silently into the kitchen. It looked around carefully and jumped onto the table quickly. There was a bowl of milk placed nearby. The cat drank it happily and then dashed out of the room immediately when it heard footsteps.
 
 ### **5. Synonyms (15 Questions)**
 
