@@ -40,10 +40,4 @@
 27. Perform long division and verify your answer: 87 ÷ 2.
 28. Multiply 36 by 24 using the lattice method and check your answer.
 29. Write the multiplication and division facts for: 9 × 7 = 63.
-
-**Section E: Mental Math (2 marks each) [8 Marks]**
-
 30. How many times can we repeatedly subtract 6 from 30?
-31. Multiply 99 by 8 using the shortcut method.
-32. Divide 48 by 6 using multiplication tables.
-33. What is the result of 16 ÷ 8?
