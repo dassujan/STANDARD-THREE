@@ -467,3 +467,103 @@ Words that **use the same letters** but in a **different order** to form a **new
 98. Fill in: My best friend ___ (come) to my birthday party tomorrow.  
 99. Choose: The baby slept ___. (soundly/sound)  
 100. Rewrite: They play in the park every day.  
+
+# **ENGLISH GRAMMAR PRACTICE QUESTIONS (SET-4)**  
+
+Sure! Below is a **100-question** **shuffled** English Grammar **practice set** based on your **Class 3 ICSE syllabus**. The questions are **randomly mixed** but cover all important grammar topics thoroughly and correctly. 😊  
+
+---
+
+# **ENGLISH GRAMMAR PRACTICE QUESTIONS**  
+### **(Class 3 - ICSE Board Level)**  
+
+---
+
+1. Rewrite in the past tense: She talks to her grandmother.  
+2. Choose the correct homophone: The **bare/bear** looked angry.  
+3. Complete the sentence: She ___ to school every morning. (go)  
+4. Find the anagram: **"silent"** → ?  
+5. Write a synonym for "happy."  
+6. The dog ___ loudly when it sees strangers. (bark)  
+7. I ___ a kite yesterday. (fly)  
+8. Can you tie a **knot/not** properly?  
+9. Write the opposite of "bright."  
+10. The baby ___ milk. (drink/drinks)  
+11. Choose the correct verb: The teacher ___ the class carefully. (teach/taught)  
+12. Find the anagram: **"lemon"** → ?  
+13. Does Ravi ___ cricket every Sunday? (play)  
+14. Rewrite: The cat purrs softly.  
+15. Write two meanings for **bat**.  
+16. My father ___ coffee every day. (likes/like)  
+17. Write in future tense: They watch TV after dinner.  
+18. Look at the **whether/weather**.  
+19. Rewrite in past tense: We play cricket on Sundays.  
+20. Write an antonym for "big."  
+21. I **new/knew** the answer to that question.  
+22. Rewrite in simple present: He is reading a book.  
+23. We should sit **here/hear**.  
+24. Write a compound word using "rain."  
+25. Complete the question: Do you ___ to school by bus? (go)  
+26. Write a synonym for "tired."  
+27. She ___ her friend in the park. (meet)  
+28. Riya ___ beautiful paintings. (make)  
+29. Choose the correct homophone: Lancelot was a brave **knight/night**.  
+30. Complete: She sang the song ___. (beautifully)  
+31. The lion ___ meat. (eat/ate)  
+32. Birds ___ early in the morning. (sing)  
+33. Match: **Match + box** → (a) matchbox (b) matchstick  
+34. The coffee has become **cold**. (Find the antonym.)   
+35. Select the correct form: The dog ___ loudly. (bark/barks)  
+36. Choose the correct homonym: He bought a new **bat**. (animal/sports equipment)  
+37. The students will ___ lunch quietly. (eat/eats)  
+38. The wind blew ___. (strongly)  
+39. Rewrite: The children play in the park.  
+40. Choose the correct homophone: The horse’s **tale/tail** is so bushy!  
+41. The baby slept ___. (peacefully)  
+42. Rewrite in past tense: The bookstore sells new editions.  
+43. I ___ to the store with my father. (walk)  
+44. The postman ___ the letters tomorrow. (deliver)  
+45. Write a synonym for "bright."  
+46. Write an antonym for "happy."  
+47. Choose the correct homonym: She works at a **bank**. (money place/river bank)  
+48. Choose the correct adverb: He ran ___ to catch the bus. (fast/fastly)  
+49. Find the anagram: **"stressed"** → ?  
+50. Rewrite in future tense: He sings at the concert.  
+51. We completed the project ___. (early)  
+52. Choose a synonym for "mistake."  
+53. The cat entered the room ___. (quietly)  
+54. The book was very ___ (interesting). (Write an antonym.)  
+55. Write in question form: She sings beautifully.  
+56. Fill in: The bird is sitting ___. (above)  
+57. Write an antonym for "rough."  
+58. I will ___ my homework later. (do)  
+59. Rewrite in future tense: He writes a story.  
+60. They ___ cricket in the evening. (play)  
+61. The dog barked ___. (loudly)  
+62. Find the anagram: **"dusty"** → ?  
+63. Complete: The ___ board is green. (class)  
+64. Choose the correct homophone: I will **meat/meet** Priya next week.  
+65. Rewrite: They watch TV after dinner.  
+66. Choose: Open → (a) close (b) far (Find the antonym.)  
+67. Choose the correct homonym: The clock is **light**. (weight/brightness)  
+68. Complete: She went to the ___ house. (farm)  
+69. My brother ___ for a walk in the morning. (go)  
+70. Choose the correct synonym: Leap → (a) jump (b) sit  
+71. Fill in: The ___ coat kept me warm. (rain)  
+72. The teacher was very ___ (careful) with her words.  
+73. Rewrite: The baby cries loudly. (Past tense)  
+74. Choose: Calm → (a) noisy (b) peaceful (Find the antonym.)  
+75. Write two meanings for **wave**.  
+76. Will you ___ with us to the park? (come)  
+77. Rewrite in past tense: She buys cakes.  
+78. Write a synonym for "dangerous."  
+79. Write a sentence using "popcorn."  
+80. The lion ___ its food in the jungle. (eat/ate)  
+81. Fill in: There was a ___ pan on the stove. (cake)  
+82. Match: **Text + book** → (a) notebook (b) textbook  
+83. The children screamed ___. (joyfully)  
+84. Choose the correct homonym: He will **close** the door. (shut/near)  
+85. Write an antonym for "dark."  
+86. My sister ___ a letter yesterday. (write)  
+87. They will go to the museum ___. (tomorrow)  
+88. The coffee has become **cold**. (Find the antonym.)  
