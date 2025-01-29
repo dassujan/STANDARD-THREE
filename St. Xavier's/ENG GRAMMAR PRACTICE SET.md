@@ -226,103 +226,130 @@ Words that **use the same letters** but in a **different order** to form a **new
 # **ENGLISH GRAMMAR PRACTICE QUESTIONS (SET-2)**  
  
 ### **1. Simple Present Tense (15 Questions)**  
-1. Complete the sentence: My father ___ (drive) to work every day.  
-2. Fill in the blank: She ___ (study) for two hours daily.  
-3. Choose the correct form: The baby ___ (cry/cries) at night.  
-4. Rewrite in simple present: He is going to the park.  
-5. The teacher ___ (teach) English very well.  
-6. Birds ___ (fly) in the sky.  
-7. Riya always ___ (help) her mother in the kitchen.  
-8. Make a question: They play cricket on Sundays.  
-9. He ___ (drink) milk before going to bed.  
-10. Complete: My parents ___ (watch) the news every evening.  
-11. We ___ (celebrate) Diwali with lights and sweets.  
-12. Choose the correct verb: The moon ___ (shine/shines) at night.  
-13. The students ___ (obey) their teacher.  
-14. My friend ___ (call) me every evening.  
-15. Does he ___ (know) how to swim?  
+1. She ___ to school every morning. (go)  
+2. The dog ___ loudly when it sees strangers. (bark)  
+3. Does Ravi ___ cricket every Sunday? (play)  
+4. They ___ in the park every evening. (walk)  
+5. Neha ___ a book to her brother. (read)  
+6. The baby ___ milk. (drink/drinks)  
+7. We ___ our homework before playing. (finish)  
+8. Rewrite in simple present: He is reading a book.  
+9. Riya ___ beautiful paintings. (make)  
+10. Birds ___ early in the morning. (sing)  
+11. He always ___ breakfast at 8 a.m. (eat)  
+12. Write in question form: She sings beautifully.  
+13. Select the correct form: My father ___ coffee every day. (likes/like)  
+14. Do you ___ to school by bus? (go)  
+15. Rohan and his friends ___ soccer in the evening. (play)  
  
 ### **2. Simple Past Tense (15 Questions)**  
-1. Rewrite in past tense: He talks to his friends.  
-2. We ___ (visit) the zoo last Sunday.  
-3. My mother ___ (cook) a delicious meal yesterday.  
-4. Choose the correct verb: The children ___ (run/ran) in the park.  
-5. He ___ (read) a new book last night.  
-6. Write in past tense: The sun rises in the east.  
-7. They ___ (buy) a new car last month.  
-8. Rewrite: She sings a beautiful song.  
-9. The birds ___ (fly) away when the storm started.  
-10. My father ___ (fix) my broken toy.  
-11. Change to past tense: The boy jumps in the puddle.  
-12. I ___ (lose) my pencil in class.  
-13. The students ___ (write) a test yesterday.  
-14. Rewrite: He eats an apple every morning.  
-15. The lion ___ (roar) loudly in the jungle.  
+16. Rewrite in the past tense: She talks to her grandmother.  
+17. I ___ a kite yesterday. (fly)  
+18. He ___ a delicious cake for the party. (bake)  
+19. The teacher ___ the class carefully. (teach/taught)  
+20. They ___ the garden last weekend. (clean)  
+21. She ___ a new dress for the party. (buy)  
+22. Rewrite: We go to the zoo.  
+23. He ___ very hard for his exams. (study)  
+24. Change to past tense: The lion eats meat.  
+25. She ___ her friend in the park. (meet)  
+26. They ___ a movie last night. (watch)  
+27. Rewrite: The cat purrs softly.  
+28. My sister ___ a letter yesterday. (write)  
+29. I ___ to the store with my father. (walk)  
+30. Rewrite in past tense: We play cricket on Sundays.  
  
 ### **3. Simple Future Tense (15 Questions)**  
-1. Complete: We ___ (go) to the fair tomorrow.  
-2. She ___ (finish) her homework later.  
-3. The teacher ___ (explain) the lesson next week.  
-4. Rewrite in future tense: They play football on Sundays.  
-5. My father ___ (buy) me a new bicycle next month.  
-6. Choose the correct verb: The sun ___ (shine/will shine) in the morning.  
-7. Riya ___ (bake) a cake for her brother’s birthday.  
-8. He ___ (write) a letter to his grandmother.  
-9. Complete: The school ___ (open) in June.  
-10. Will you ___ (come) to my birthday party?  
-11. My parents ___ (travel) to Mumbai next weekend.  
-12. Rewrite in future tense: The children dance in the competition.  
-13. The birds ___ (fly) to warmer places in winter.  
-14. I ___ (read) a new book next week.  
-15. She ___ (call) you after dinner.  
+31. I ___ my homework later. (do)  
+32. Tomorrow, they ___ to the museum. (go)  
+33. She ___ a cake for the party. (bake)  
+34. Rewrite in future tense: He writes a story.  
+35. They ___ cricket in the evening. (play)  
+36. Will you ___ to school tomorrow? (come)  
+37. She ___ her sister with her homework. (help)  
+38. Change to future tense: He sings at the concert.  
+39. We ___ to the beach this weekend. (go)  
+40. My brother ___ for a walk in the morning. (go)  
+41. Will you ___ with us to the park? (come)  
+42. She ___ her favorite book next week. (read)  
+43. Rewrite: They watch TV after dinner.  
+44. The postman ___ the letters tomorrow. (deliver)  
+45. Rewrite: The children play in the park.  
  
 ### **4. Adverbs (10 Questions)**  
-1. Identify the adverb: The baby slept soundly.  
-2. Fill in the blank: He walked ___ (slowly) towards the gate.  
-3. Choose the correct adverb: She finished her work ___ (quickly/quick).  
-4. Rewrite with an adverb: She speaks in a polite way.  
-5. Find the adverb: The dog barked loudly.  
-6. Complete: We will leave ___ (early) in the morning.  
-7. Use “happily” in a sentence.  
-8. Choose the correct adverb: The stars shine ___ at night. (bright/brightly)  
-9. Underline the adverb: The children played outside.  
-10. Replace the phrase with an adverb: He completed his task with care.  
+46. Identify the adverb: The dog barked loudly.  
+47. Complete: She sang the song ___. (beautifully)  
+48. Choose the correct adverb: He ran ___ to catch the bus. (fast/fastly)  
+49. Underline the adverb: They will go there tomorrow.  
+50. The baby slept ___. (peacefully)  
+51. We completed the project ___. (early)  
+52. Use "often" in a sentence.  
+53. The wind blew ___. (strongly)  
+54. Write a sentence using "yesterday."  
+55. Fill in: The bird is sitting ___. (above)  
  
-### **5. Synonyms (10 Questions)**  
-1. Write a synonym for “angry.”  
-2. Match: Large → (a) big (b) tiny  
-3. Replace: The road was (narrow).  
-4. Choose the correct synonym: Cold → (a) chilly (b) hot  
-5. Find the synonym: The instructions were **simple**.  
-6. Replace: He was very (happy) after the trip.  
-7. Match: Hardworking → (a) lazy (b) diligent  
-8. Write a synonym for “brave.”  
-9. Choose: Bright → (a) shiny (b) dull  
-10. Replace: She was very (tired) after the journey.  
+### **5. Homophones (10 Questions)**  
+56. Choose the correct homophone: The **bare/bear** looked angry.  
+57. Can you tie a **knot/not** properly?  
+58. We should sit **here/hear**.  
+59. The horse’s **tale/tail** is so bushy!  
+60. Look at the **whether/weather**.  
+61. I **new/knew** the answer to that question.  
+62. Would you like a **wood/would** table?  
+63. Lancelot was a brave **knight/night**.  
+64. I will **meat/meet** Priya next week.  
+65. We went to the **sea/see** for the weekend.  
  
-### **6. Antonyms (10 Questions)**  
-1. Write an antonym for "easy."  
-2. Match: Young → (a) old (b) new  
-3. Replace: The surface was very (smooth).  
-4. Write the opposite of "fast."  
-5. Choose: Dark → (a) bright (b) soft  
-6. Fill in: The book was ___ (interesting).  
-7. Write an antonym for "strong."  
-8. Match: Soft → (a) rough (b) light  
-9. Replace: The baby was (quiet).  
-10. Write the opposite of "beautiful."  
+### **6. Homonyms (10 Questions)**  
+66. Write two meanings for **bat**.  
+67. Write two meanings for **book**.  
+68. Write two meanings for **close**.  
+69. Write two meanings for **dust**.  
+70. Write two meanings for **fine**.  
+71. Write two meanings for **light**.  
+72. Write two meanings for **bank**.  
+73. Write two meanings for **spring**.  
+74. Write two meanings for **wave**.  
+75. Write two meanings for **bark**.  
  
-### **7. Compound Words (10 Questions)**  
-1. Write a compound word using “moon.”  
-2. Fill in the blank: The ___ room is large. (class)  
-3. Match: Door + bell → (a) doorbell (b) doorknob  
-4. Write a sentence using “sunflower.”  
-5. Complete: We live in a ___ house. (farm)  
-6. Fill in: She put her books on the ___. (shelf)  
-7. Match: Cup + cake → (a) cupcake (b) teacup  
-8. Write a sentence using “notebook.”  
-9. Fill in: The ___ coat is waterproof. (rain)  
-10. Complete: The ___ yard has green grass. (play)  
+### **7. Synonyms (10 Questions)**  
+76. Write a synonym for "happy."  
+77. Write a synonym for "bright."  
+78. Write a synonym for "small."  
+79. Write a synonym for "tired."  
+80. Write a synonym for "dangerous."  
+81. Write a synonym for "cold."  
+82. Write a synonym for "mistake."  
+83. Write a synonym for "jump."  
+84. Write a synonym for "simple."  
+85. Write a synonym for "strong."  
+ 
+### **8. Antonyms (10 Questions)**  
+86. Write an antonym for "big."  
+87. Write an antonym for "happy."  
+88. Write an antonym for "smooth."  
+89. Write an antonym for "dark."  
+90. Write an antonym for "open."  
+91. Write an antonym for "interesting."  
+92. Write an antonym for "hot."  
+93. Write an antonym for "rough."  
+94. Write an antonym for "bright."  
+95. Write an antonym for "calm."  
+ 
+### **9. Compound Words (10 Questions)**  
+96. Write a compound word using "rain."  
+97. Fill: The ___ board is green. (class)  
+98. Match: Match + box → (a) matchbox (b) matchstick  
+99. Write a sentence using "butterfly."  
+100. Complete: She went to the ___ house. (farm)  
+ 
+### **10. Anagrams (5 Bonus Questions)**  
+🔹 **Anagrams** are words made by rearranging letters. Example: **"listen" → "silent"**.  
+101. Find the anagram: **"stressed"** → ?  
+102. Find the anagram: **"silent"** → ?  
+103. Find the anagram: **"dusty"** → ?  
+104. Find the anagram: **"save"** → ?  
+105. Find the anagram: **"lemon"** → ?  
 
 # **ENGLISH GRAMMAR PRACTICE QUESTIONS (SET-3)**  
  
@@ -441,106 +468,3 @@ Words that **use the same letters** but in a **different order** to form a **new
 98. Fill in: My best friend ___ (come) to my birthday party tomorrow.  
 99. Choose: The baby slept ___. (soundly/sound)  
 100. Rewrite: They play in the park every day.  
-
-# **ENGLISH GRAMMAR PRACTICE QUESTIONS (SET-4)**  
-
-1. Complete the sentence: She ___ (write) a letter to her grandmother every Sunday.  
-2. Fill in the blank: My parents ___ (go) to the market yesterday.  
-3. Choose the correct form: The dog ___ (bark/barks) loudly at strangers.  
-4. Rewrite in past tense: The sun shines brightly.  
-5. Complete the question: Do you ___ (like) ice cream?  
-6. She ___ (finish) her homework before going to bed.  
-7. Choose the correct word: My mother ___ (cook/cooks) delicious meals.  
-8. Complete the sentence: The children ___ (play) in the garden tomorrow.  
-9. Rewrite in future tense: He writes a poem.  
-10. My brother ___ (run) in the park every evening.  
-11. Fill in the blank: We ___ (visit) the zoo last Sunday.  
-12. Write in past tense: The cat drinks milk.  
-13. Rewrite: The baby cries loudly.  
-14. Choose the correct verb: The birds ___ (fly) in the sky.  
-15. I ___ (read) a book next week.  
-16. Rewrite: She eats her lunch at 1 p.m.  
-17. Fill in the blank: The sun ___ (set) in the west.  
-18. Write in future tense: They play in the park.  
-19. My sister ___ (buy) a new dress for the party last night.  
-20. The teacher ___ (teach) us a new lesson yesterday.  
-21. Choose the correct word: The stars ___ (shine/shines) at night.  
-22. He ___ (jump) over the fence and ran away.  
-23. Rewrite: The children clap their hands.  
-24. Complete: My mother ___ (bake) a cake tomorrow.  
-25. We ___ (go) to the museum last weekend.  
-26. The dog ___ (sleep) peacefully under the tree.  
-27. Rewrite: She visits her grandmother every summer.  
-28. I ___ (help) my friend with his project tomorrow.  
-29. Fill in the blank: My father ___ (drive) me to school every day.  
-30. Rewrite in past tense: The lion roars in the jungle.  
-31. Choose the correct adverb: The baby slept ___. (soundly/sound)  
-32. Fill in the blank: She danced ___. (gracefully)  
-33. Write a sentence using “happily.”  
-34. Choose the correct adverb: The children played ___. (joyful/joyfully)  
-35. Rewrite with an adverb: He speaks in a loud manner.  
-36. Underline the adverb: She ran quickly to catch the bus.  
-37. Replace the phrase with an adverb: He completed his work with care.  
-38. Write a sentence using “outside.”  
-39. Fill in the blank: The train arrived ___. (late)  
-40. Rewrite: She ate her lunch fast. (Use an adverb)  
-41. Write a synonym for “big.”  
-42. Match: Happy → (a) sad (b) joyful  
-43. Replace: The weather was (chilly).  
-44. Choose the correct synonym: Kind → (a) rude (b) caring  
-45. Replace: The instructions were (clear).  
-46. Find the synonym: The test was **easy**.  
-47. Match: Clever → (a) smart (b) lazy  
-48. Choose: Cold → (a) freezing (b) hot  
-49. Replace: She was very (tired) after the journey.  
-50. Fill in the blank: The boy was very ___ (brave).  
-51. Write an antonym for “soft.”  
-52. Match: Full → (a) empty (b) heavy  
-53. Replace: The road was very (smooth).  
-54. Write the opposite of “slow.”  
-55. Choose: Dark → (a) light (b) soft  
-56. Fill in: The book was ___ (boring).  
-57. Write an antonym for “hot.”  
-58. Match: Happy → (a) joyful (b) miserable  
-59. Replace: The man was (rich).  
-60. Write the opposite of “strong.”  
-61. Write a compound word using “rain.”  
-62. Fill in: The ___ yard is clean. (play)  
-63. Match: Sun + light → (a) sunlight (b) sunshine  
-64. Write a sentence using “moonlight.”  
-65. Complete: She packed her clothes in a ___. (suitcase)  
-66. Fill in: The ___ bell rang loudly. (school)  
-67. Match: Fire + fly → (a) butterfly (b) firefly  
-68. Write a sentence using “notebook.”  
-69. Fill in: The ___ coat kept me warm. (rain)  
-70. Complete: The ___ board is green. (class)  
-71. Complete: She ___ (go) to the temple every morning.  
-72. My friend always ___ (tell) the truth.  
-73. The sun ___ (rise) in the east.  
-74. Rewrite in past tense: They watch cartoons on Sundays.  
-75. I ___ (finish) my homework before dinner.  
-76. She ___ (buy) a new pen yesterday.  
-77. My cousin ___ (visit) me next month.  
-78. The stars ___ (twinkle) in the sky.  
-79. Rewrite: The teacher explains the lesson.  
-80. The birds ___ (sing) sweetly in the morning.  
-81. Rewrite: The baby smiles at her mother.  
-82. She ___ (call) her best friend every evening.  
-83. My uncle ___ (come) home late yesterday.  
-84. The shopkeeper ___ (sell) all the chocolates.  
-85. Rewrite: He plays football every evening.  
-86. My mother ___ (make) delicious pancakes for breakfast.  
-87. The children ___ (shout) loudly during the game.  
-88. Rewrite in future tense: The train arrives at 7 a.m.  
-89. My father ___ (travel) to London next week.  
-90. The postman ___ (deliver) the letters in the morning.  
-91. Rewrite in past tense: The baby sleeps in the cradle.  
-92. I ___ (write) a story for my school magazine next month.  
-93. The bus ___ (leave) the station at 6 a.m.  
-94. The birds ___ (build) their nests in summer.  
-95. My grandmother ___ (tell) me a story before bedtime.  
-96. Rewrite in future tense: He helps his mother in the kitchen.  
-97. The students ___ (prepare) for their exams next week.  
-98. Rewrite: The sun sets in the evening.  
-99. Fill in: My best friend ___ (come) to my birthday party tomorrow.  
-100. Rewrite in past tense: They play in the park every day.  
