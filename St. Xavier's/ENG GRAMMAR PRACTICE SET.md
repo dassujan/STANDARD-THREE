@@ -89,7 +89,38 @@ A **compound word** is made when two different words join together to make a new
 Words that **use the same letters** but in a **different order** to form a **new word**.  
 - Example: **Listen** → **Silent**.  
 - **Sentence:** The classroom was **silent** during the test.  
- 
+
+# **Make Sentences with homonyms**
+
+1. **Bat**  
+   - **Meaning 1:** A wooden stick used to hit a ball in sports.  
+     *Example:* He bought a new bat yesterday.  
+   - **Meaning 2:** A flying animal that comes out at night.  
+     *Example:* There's a bat flying in my room!  
+
+2. **Book**  
+   - **Meaning 1:** A set of written or printed pages bound together.  
+     *Example:* I love reading a storybook before bed.  
+   - **Meaning 2:** To arrange for someone to have a seat, room, or place in advance.  
+     *Example:* We booked a hotel for our vacation.  
+
+3. **Close**  
+   - **Meaning 1:** To shut something.  
+     *Example:* Please close the door when you leave.  
+   - **Meaning 2:** Near in distance.  
+     *Example:* My school is close to my house.  
+
+4. **Dust**  
+   - **Meaning 1:** Tiny dry dirt particles found on surfaces.  
+     *Example:* There was a lot of dust on the table.  
+   - **Meaning 2:** To remove dust from a surface.  
+     *Example:* Mom asked me to dust the shelves.  
+
+5. **Fine**  
+   - **Meaning 1:** Very good or nice.  
+     *Example:* The weather is fine today.  
+   - **Meaning 2:** A sum of money paid as punishment.  
+     *Example:* He had to pay a fine for parking in the wrong place.  
 
 # **ENGLISH GRAMMAR PRACTICE QUESTIONS (SET-1)**  
 
