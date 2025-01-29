@@ -470,15 +470,6 @@ Words that **use the same letters** but in a **different order** to form a **new
 
 # **ENGLISH GRAMMAR PRACTICE QUESTIONS (SET-4)**  
 
-Sure! Below is a **100-question** **shuffled** English Grammar **practice set** based on your **Class 3 ICSE syllabus**. The questions are **randomly mixed** but cover all important grammar topics thoroughly and correctly. 😊  
-
----
-
-# **ENGLISH GRAMMAR PRACTICE QUESTIONS**  
-### **(Class 3 - ICSE Board Level)**  
-
----
-
 1. Rewrite in the past tense: She talks to her grandmother.  
 2. Choose the correct homophone: The **bare/bear** looked angry.  
 3. Complete the sentence: She ___ to school every morning. (go)  
