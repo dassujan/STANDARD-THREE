@@ -1,3 +1,64 @@
+## **Chapter: Solids, Liquids, and Gases**  
+
+### **1. What is matter?**  
+Anything that **occupies space and has mass** is called **matter**.  
+
+### **2. What are the three forms of matter?**  
+Matter exists in three forms:  
+- **Solids**, **Liquids**, **Gases**  
+
+### **3. What are the properties of solids?**  
+- Solids are generally **hard**.  
+- Solids have a **fixed shape**.  
+- Solids **do not flow**.  
+- Solids can change their shape only when **broken or deformed by force**.  
+- The shape of a **hard solid does not change** when moved from one place to another.  
+
+### **4. What are some examples of solids?**  
+Examples: **Book, chair, table, rock, bread, house, clothes**.  
+
+### **5. What are the properties of liquids?**  
+- Liquids **do not have a fixed shape**.  
+- Liquids have a **fixed volume**.  
+- Liquids can be **poured and spilled**.  
+- Liquids take the **shape of the container** they are in.  
+
+### **6. What are some examples of liquids?**  
+Examples: **Water, milk, juice, oil**.  
+
+### **7. What are the properties of gases?**  
+- Gases **do not have a fixed shape or size**.  
+- Gases **spread and fill all available space**.  
+- Gases are present **all around us in the air**.  
+
+### **8. What are some examples of gases?**  
+Examples: **Oxygen, carbon dioxide, air, CNG, smoke**.  
+
+### **9. Why are liquids and gases called fluids?**  
+Liquids and gases **flow easily**, so they are called **fluids**.  
+
+### **10. What are the uses of solids?**  
+Solids are a basic part of life. Some examples:  
+- Houses, buildings, and furniture are made of **solid matter**.  
+- Most **food items** are solids.  
+- **Clothes** and **utensils** are also solid.  
+
+### **11. What are the uses of liquids?**  
+- **Water** is needed for drinking, bathing, cooking, and cleaning.  
+- Other liquids like **milk, juice, and oil** are used daily.  
+
+### **12. What are the uses of gases?**  
+- **Oxygen** is needed for breathing.  
+- **Air** is used to fill balloons, tyres, and footballs.  
+- **LPG** is used for cooking, and **CNG** is used as fuel in vehicles.  
+
+### **13. Fill in the blanks:**  
+1. Anything that occupies space and has mass is called **matter**.  
+2. Matter exists in **three** different forms.  
+3. Solids are generally **hard**.  
+4. Liquids have a **fixed volume**.  
+5. We cannot hold **air** in our hands.  
+
 ## **Chapter: Water as a Resource**  
 
 ### **1. What are the three states of water?**  
