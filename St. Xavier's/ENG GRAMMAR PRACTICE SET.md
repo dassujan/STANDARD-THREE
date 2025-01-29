@@ -344,7 +344,6 @@ Words that **use the same letters** but in a **different order** to form a **new
 100. Complete: She went to the ___ house. (farm)  
  
 ### **10. Anagrams (5 Bonus Questions)**  
-🔹 **Anagrams** are words made by rearranging letters. Example: **"listen" → "silent"**.  
 101. Find the anagram: **"stressed"** → ?  
 102. Find the anagram: **"silent"** → ?  
 103. Find the anagram: **"dusty"** → ?  
