@@ -194,7 +194,7 @@ Words that **use the same letters** but in a **different order** to form a **new
 
 # **ENGLISH GRAMMAR PRACTICE QUESTIONS (SET-2)**  
  
-## **1. Simple Present Tense (15 Questions)**  
+### **1. Simple Present Tense (15 Questions)**  
 1. Complete the sentence: My father ___ (drive) to work every day.  
 2. Fill in the blank: She ___ (study) for two hours daily.  
 3. Choose the correct form: The baby ___ (cry/cries) at night.  
@@ -211,7 +211,7 @@ Words that **use the same letters** but in a **different order** to form a **new
 14. My friend ___ (call) me every evening.  
 15. Does he ___ (know) how to swim?  
  
-## **2. Simple Past Tense (15 Questions)**  
+### **2. Simple Past Tense (15 Questions)**  
 1. Rewrite in past tense: He talks to his friends.  
 2. We ___ (visit) the zoo last Sunday.  
 3. My mother ___ (cook) a delicious meal yesterday.  
@@ -228,7 +228,7 @@ Words that **use the same letters** but in a **different order** to form a **new
 14. Rewrite: He eats an apple every morning.  
 15. The lion ___ (roar) loudly in the jungle.  
  
-## **3. Simple Future Tense (15 Questions)**  
+### **3. Simple Future Tense (15 Questions)**  
 1. Complete: We ___ (go) to the fair tomorrow.  
 2. She ___ (finish) her homework later.  
 3. The teacher ___ (explain) the lesson next week.  
@@ -245,7 +245,7 @@ Words that **use the same letters** but in a **different order** to form a **new
 14. I ___ (read) a new book next week.  
 15. She ___ (call) you after dinner.  
  
-## **4. Adverbs (10 Questions)**  
+### **4. Adverbs (10 Questions)**  
 1. Identify the adverb: The baby slept soundly.  
 2. Fill in the blank: He walked ___ (slowly) towards the gate.  
 3. Choose the correct adverb: She finished her work ___ (quickly/quick).  
@@ -257,7 +257,7 @@ Words that **use the same letters** but in a **different order** to form a **new
 9. Underline the adverb: The children played outside.  
 10. Replace the phrase with an adverb: He completed his task with care.  
  
-## **5. Synonyms (10 Questions)**  
+### **5. Synonyms (10 Questions)**  
 1. Write a synonym for “angry.”  
 2. Match: Large → (a) big (b) tiny  
 3. Replace: The road was (narrow).  
@@ -269,7 +269,7 @@ Words that **use the same letters** but in a **different order** to form a **new
 9. Choose: Bright → (a) shiny (b) dull  
 10. Replace: She was very (tired) after the journey.  
  
-## **6. Antonyms (10 Questions)**  
+### **6. Antonyms (10 Questions)**  
 1. Write an antonym for "easy."  
 2. Match: Young → (a) old (b) new  
 3. Replace: The surface was very (smooth).  
@@ -281,7 +281,7 @@ Words that **use the same letters** but in a **different order** to form a **new
 9. Replace: The baby was (quiet).  
 10. Write the opposite of "beautiful."  
  
-## **7. Compound Words (10 Questions)**  
+### **7. Compound Words (10 Questions)**  
 1. Write a compound word using “moon.”  
 2. Fill in the blank: The ___ room is large. (class)  
 3. Match: Door + bell → (a) doorbell (b) doorknob  
