@@ -2,9 +2,7 @@
 
 ### **1. What are the three states of water?**  
 Water exists in three states:  
-- **Ice (solid)**  
-- **Water (liquid)**  
-- **Water vapour (gas)**  
+- **Ice (solid)**, **Water (liquid)**, **Water vapour (gas)**  
 
 ### **2. How can water change from one state to another?**  
 - **Melting:** Ice changes into water.  
@@ -89,9 +87,7 @@ Sources of energy that can be used again and again are called **renewable source
 
 ### **9. What are non-renewable sources of energy?**  
 These are energy sources that cannot be easily replaced. Examples:  
-- **Coal**  
-- **Petroleum**  
-- **Natural gas**  
+- **Coal**, **Petroleum**, **Natural gas**  
 
 ### **10. What is conservation of energy?**  
 The way by which we **save energy and prevent its misuse** is called **conservation of energy**.  
