@@ -257,7 +257,16 @@ The table below shows students' favorite animals using tally marks.
 69. A toy factory makes **72 toys per month**. How many in **6 months**?  
 70. A train has **8 coaches**, and each has **25 seats**. How many seats in total?  
 
-71. The pictograph below shows books borrowed from a library. Each 📚 represents **4 books**.  
+71. Complete the Table**
+| Division Fact | Dividend | Divisor | Quotient |
+|--------------|---------|--------|---------|
+| 16 ÷ 2 = ?  | ?       | 2      | ?       |
+| 45 ÷ 5 = ?  | ?       | 5      | ?       |
+| 36 ÷ 6 = ?  | ?       | 6      | ?       |
+| 56 ÷ 8 = ?  | ?       | 8      | ?       |
+| 72 ÷ 9 = ?  | ?       | 9      | ?       |
+
+72. The pictograph below shows books borrowed from a library. Each 📚 represents **4 books**.  
 
 | Month    | Symbols |
 |----------|--------|
@@ -268,10 +277,10 @@ The table below shows students' favorite animals using tally marks.
 | May      | 📚📚📚📚📚📚📚 |
 
 How many books were borrowed in **March**?  
-72. Which month had the **most** books borrowed?  
-73. How many books were borrowed in **January and April combined**?  
-74. How many more books were borrowed in **May than February**?  
-75. How many books were borrowed in **total**?  
+73. Which month had the **most** books borrowed?  
+74. How many books were borrowed in **January and April combined**?  
+75. How many more books were borrowed in **May than February**?  
+76. How many books were borrowed in **total**?  
 
 **The tally chart below shows students' favorite sports.**  
 
@@ -282,11 +291,11 @@ How many books were borrowed in **March**?
 | Tennis     | 6                |
 | Basketball | 11               |
 
-76. Draw tally marks for each sport.  
-77. Which sport is the **most popular**?  
-78. How many students like **Football and Tennis combined**?  
-79. How many more students like **Cricket than Tennis**?  
-80. What is the total number of students surveyed?  
+77. Draw tally marks for each sport.  
+78. Which sport is the **most popular**?  
+79. How many students like **Football and Tennis combined**?  
+80. How many more students like **Cricket than Tennis**?  
+81. What is the total number of students surveyed?  
 
 **The bar graph below represents the number of apples sold each day.**  
 
@@ -298,8 +307,8 @@ How many books were borrowed in **March**?
 | Thursday | 60         |
 | Friday   | 80         |
 
-81. Which day had the highest sales?  
-82. How many apples were sold on **Monday and Friday combined**?  
-83. What is the total number of apples sold during the week?  
-84. How many more apples were sold on **Wednesday than Monday**?  
-85. Which day had the **least sales**?  
+82. Which day had the highest sales?  
+83. How many apples were sold on **Monday and Friday combined**?  
+84. What is the total number of apples sold during the week?  
+85. How many more apples were sold on **Wednesday than Monday**?  
+86. Which day had the **least sales**?  
