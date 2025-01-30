@@ -258,13 +258,14 @@ The table below shows students' favorite animals using tally marks.
 70. A train has **8 coaches**, and each has **25 seats**. How many seats in total?  
 
 71. Complete the Table**
+
 | Division Fact | Dividend | Divisor | Quotient |
 |--------------|---------|--------|---------|
-| 16 ÷ 2 = ?  | ?       | 2      | ?       |
-| 45 ÷ 5 = ?  | ?       | 5      | ?       |
-| 36 ÷ 6 = ?  | ?       | 6      | ?       |
-| 56 ÷ 8 = ?  | ?       | 8      | ?       |
-| 72 ÷ 9 = ?  | ?       | 9      | ?       |
+| 16 ÷ 2 = ?  | **?**  | ?      | **?**   |
+| 45 ÷ 5 = ?  | **?**  | ?      | **?**   |
+| 36 ÷ 6 = ?  | **?**  | ?      | **?**   |
+| 56 ÷ 8 = ?  | **?**  | ?      | **?**   |
+| 72 ÷ 9 = ?  | **?**  | ?      | **?**   |
 
 72. The pictograph below shows books borrowed from a library. Each 📚 represents **4 books**.  
 
