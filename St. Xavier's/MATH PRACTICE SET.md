@@ -327,7 +327,7 @@ The table below shows students' favorite school subjects using tally marks.
 
 ## **Section 3: Data Handling (20 Questions)**  
 
-### **96. Pictograph: Favorite Fruits**
+### **71. Pictograph: Favorite Fruits**
 The pictograph below shows the favorite fruits of students in a class. Each 🍎 symbol represents **5 students**.
 
 | **Fruit**      | 🍎 Symbols |
@@ -343,7 +343,7 @@ The pictograph below shows the favorite fruits of students in a class. Each 🍎
 3. How many students were surveyed in total?
 4. How many more students like oranges than mangoes?
 
-### **97. Pictograph: Number of Cars Sold in a Month**
+### **72. Pictograph: Number of Cars Sold in a Month**
 The pictograph below shows the number of cars sold by a dealership each week. Each 🚗 symbol represents **10 cars**.
 
 | **Week**       | 🚗 Symbols |
@@ -359,7 +359,7 @@ The pictograph below shows the number of cars sold by a dealership each week. Ea
 3. How many cars were sold in total from Week 1 to Week 4?
 4. How many more cars were sold in Week 1 than Week 2?
 
-### **98. Pictograph: Favorite Sports**
+### **73. Pictograph: Favorite Sports**
 The pictograph below shows the favorite sports of a group of students. Each ⚽ symbol represents **6 students**.
 
 | **Sport**      | ⚽ Symbols |
@@ -375,7 +375,7 @@ The pictograph below shows the favorite sports of a group of students. Each ⚽ 
 3. How many more students like football than tennis?
 4. What is the total number of students who like basketball and tennis combined?
 
-### **99. Tally Marks: Favorite Snacks**
+### **74. Tally Marks: Favorite Snacks**
 A group of students was asked about their favorite snacks. The results are shown below using tally marks.
 
 | **Snack**      | **Tally Marks** |
@@ -391,7 +391,7 @@ A group of students was asked about their favorite snacks. The results are shown
 3. Which snack is the least popular?
 4. How many students were surveyed in total?
 
-### **100. Tally Marks: Favorite Animals**
+### **75. Tally Marks: Favorite Animals**
 The table below shows students' favorite animals using tally marks.
 
 | **Animal**      | **Tally Marks** |
