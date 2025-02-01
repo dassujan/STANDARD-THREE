@@ -220,3 +220,146 @@ The table below shows students' favorite school subjects using tally marks.
 2. How many students like Science?
 3. How many more students like Mathematics than Social Studies?
 4. How many students like English and Science combined?
+
+### **MATH PRACTICE QUESTIONS**  
+
+### **1. Solve the following multiplication problems:**  
+1. Multiply **6 × 9**.  
+2. Find **8 × 7**.  
+3. Solve **4 × 5**.  
+4. Multiply **10 × 3**.  
+5. If a chair costs ₹12, how much do **5 chairs** cost?  
+6. Multiply **11 × 8**.  
+7. Find the product of **7 × 6**.  
+8. Solve **9 × 4**.  
+9. Multiply **3 × 5 × 2**.  
+10. A shop sells **15 pens** daily. How many pens are sold in **6 days**?  
+ 
+### **2. Fill in the blanks with the correct number:**  
+11. **7 × 1 = __**  
+12. **4 × __ = 12**  
+13. If **8 × 9 = 72**, then **9 × 8 = __**.  
+14. A box has **10 apples**. In **5 boxes**, there are **__ apples**.  
+15. **0 × 15 = __**  
+ 
+### **3. Solve the following multiplication problems involving two-digit numbers:**  
+16. Multiply **23 × 4**.  
+17. Find **34 × 6**.  
+18. Solve **19 × 7**.  
+19. Multiply **42 × 3**.  
+20. A toy costs ₹25. What is the cost of **9 toys**?  
+ 
+### **4. Solve the following multiplication problems involving three-digit numbers:**  
+21. Multiply **125 × 2**.  
+22. Find **204 × 3**.  
+23. Solve **314 × 4**.  
+24. If a book costs ₹175, how much will **5 books** cost?  
+25. A shopkeeper buys **345 chocolates** every week. How many chocolates does he buy in **7 weeks**?  
+ 
+### **5. Solve multiplication by multiples of 10, 20, 30,...**  
+26. Find **10 × 9**.  
+27. Multiply **20 × 7**.  
+28. Solve **30 × 6**.  
+29. Multiply **50 × 8**.  
+30. If a cycle costs ₹90, what is the total cost of **4 such cycles**?  
+ 
+### **6. Solve multiplication by multiples of 100, 200, 300,...**  
+31. Multiply **100 × 6**.  
+32. Solve **200 × 5**.  
+33. Multiply **400 × 3**.  
+34. Solve **700 × 4**.  
+35. If a packet of rice costs ₹300, find the cost of **9 such packets**.  
+ 
+### **7. Solve the following division problems using equal sharing:**  
+36. Divide **24 pencils** equally among **6 students**.  
+37. If **30 chocolates** are shared among **5 children**, how many does each get?  
+38. A fruit seller has **48 mangoes** and distributes them among **8 customers**. How many mangoes does each get?  
+39. There are **36 balloons** to be shared equally among **9 kids**. How many does each get?  
+40. **50 apples** are packed into **10 baskets**. How many apples per basket?  
+ 
+### **8. Solve the following division problems using equal grouping:**  
+41. Group **42 buttons** into groups of **7**.  
+42. Put **56 bananas** into groups of **8**.  
+43. Divide **90 students** into groups of **10**.  
+44. Arrange **72 books** into groups of **9**.  
+45. A factory produces **120 chocolates** in **12 hours**. How many chocolates per hour?  
+ 
+### **9. Solve the following division problems using repeated subtraction:**  
+46. Use repeated subtraction to divide **18 ÷ 3**.  
+47. Solve **27 ÷ 9** using repeated subtraction.  
+48. Find **36 ÷ 6** by subtracting repeatedly.  
+49. Solve **45 ÷ 5** by repeated subtraction.  
+50. Find how many times **7 can be subtracted from 49** before reaching zero.  
+ 
+### **10. Solve the following division problems using multiplication tables:**  
+51. Solve **81 ÷ 9**.  
+52. Find **64 ÷ 8**.  
+53. Solve **54 ÷ 6**.  
+54. Find **72 ÷ 9**.  
+55. What is **48 ÷ 8**?  
+ 
+### **11. Solve long division problems:**  
+56. Divide **96 ÷ 8** using long division.  
+57. Find the quotient and remainder for **75 ÷ 7**.  
+58. Divide **132 ÷ 11** using long division.  
+59. Solve **123 ÷ 9**.  
+60. A bakery sells **168 cupcakes** every week. How many cupcakes does it sell per day?  
+ 
+### **12. Solve these division-based story problems:**  
+61. A shopkeeper has **144 oranges** and packs them equally into **12 boxes**. How many oranges per box?  
+62. A bus carries **48 passengers**. How many passengers travel in **6 such buses**?  
+63. A cake shop sells **56 cakes per week**. How many in **8 weeks**?  
+64. There are **132 students** sitting in **11 rows**. How many per row?  
+65. A school distributes **81 books** equally among **9 students**. How many does each get?  
+ 
+### **13. Pictograph Questions:**  
+
+A pictograph shows the number of toys sold over four months. Each 🧸 represents **5 toys**.  
+
+| **Month**    | **Symbols** |
+|-------------|------------|
+| January     | 🧸🧸🧸🧸🧸 |
+| February    | 🧸🧸🧸🧸 |
+| March       | 🧸🧸🧸🧸🧸🧸 |
+| April       | 🧸🧸🧸 |  
+
+66. How many toys were sold in **March**?  
+67. In which month were the most toys sold?  
+68. How many toys were sold in **total**?  
+69. How many more toys were sold in **January than April**?  
+70. How many toys were sold in **February and April combined**?  
+ 
+### **14. Tally Marks Questions:**  
+
+A group of students was asked about their favorite drinks. The results are shown below:  
+
+| **Drink**    | **Tally Marks** |
+|-------------|----------------|
+| Milk        | |||| |||| |  
+| Juice       | |||| || |  
+| Tea         | |||| |||| |  
+| Coffee      | |||| |  
+
+71. How many students prefer milk?  
+72. Which drink is the most popular?  
+73. How many students like **Juice and Tea combined**?  
+74. How many fewer students prefer **Coffee than Milk**?  
+75. How many students were surveyed in total?  
+ 
+### **15. Bar Graph Questions:**  
+
+A bar graph shows the number of books borrowed from the school library over five months.  
+
+| **Month**     | **Books Borrowed** |
+|-------------|----------------|
+| January     | 40 |
+| February    | 55 |
+| March       | 70 |
+| April       | 45 |
+| May         | 60 |  
+
+76. Which month had the highest number of books borrowed?  
+77. How many books were borrowed in **January and March combined**?  
+78. How many fewer books were borrowed in **April than March**?  
+79. What is the total number of books borrowed in five months?  
+80. Which month had the least books borrowed?  
