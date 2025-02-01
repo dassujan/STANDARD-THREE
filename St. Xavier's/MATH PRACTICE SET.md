@@ -313,3 +313,36 @@ How many books were borrowed in **March**?
 84. What is the total number of apples sold during the week?  
 85. How many more apples were sold on **Wednesday than Monday**?  
 86. Which day had the **least sales**?  
+
+# **WORD PRACTICE PROBLEMS**  
+
+1. On Onam, 9 boats took part in a boat race. There were 55 men in each boat. How many men took part in the race?  
+2. Nine children skipped 12 times each. What is the total number of skips?  
+3. A chair costs ₹386. What is the cost of 9 chairs?  
+4. Annie has 27 beads. She wants to make necklaces of 9 beads each. How many necklaces can she make?  
+5. A box of apples contains 38 apples. How many apples will 79 such boxes contain?  
+6. Sonal counted 12 butterflies and 6 flowers. She saw an equal number of butterflies on each flower. How many butterflies were there on each flower?  
+7. A cyclist can ride 23 kilometers in one hour. How far will he go in 69 hours?  
+8. There are 120 balloons in a packet. How many balloons will there be in 4 such packets?  
+9. Six aeroplanes, each carrying 85 passengers, took off from Mumbai on Thursday. How many passengers were in these planes altogether?  
+10. Raju's team scored 109 points in gilli-danda, and Jeet's team scored 98 points. Which team scored more and how many more points?  
+11. The seating capacity of a city bus is 72. How many passengers can sit in 29 buses?  
+12. Rakesh has 24 kites. He wants to share them equally among 6 children. How many kites will each child get?  
+13. There were 72 players at a kho-kho event. If there were 9 players in each team, how many teams participated?  
+14. Grandma wants to share 15 apples equally among 5 children. How many apples will each child get?  
+15. There are 4 flowers in a plant. How many flowers will there be in 22 such plants?  
+16. Abhishek has ₹100. He divides it equally among 10 friends. How many rupees does each friend get?  
+17. For a party, 72 chairs are arranged equally in 9 rows. How many chairs are there in each row?  
+18. In a nursery, there are 497 rows of plants, and each row contains 8 plants. How many total plants are there in the nursery?  
+19. In a multiplex, there are 2 auditoriums. 430 people can sit in each auditorium. How many people can watch movies in the multiplex at one time?  
+20. Arif used 32 marigold flowers to make a garland. How many flowers will he need to make 8 such garlands?  
+21. There are 45 books in a library. These books are distributed equally among 9 children. How many books will each child get?  
+22. There are 20 toffees. How many packets can be made if each packet contains 5 toffees?  
+23. There are 7 players in each team of a seven stones game, also known as Lagori. How many players will be there in 11 teams?  
+24. 36 students are to have lunch in the school canteen. Four students can be seated at one table. How many tables will be needed to seat all the students?  
+25. A farmer has 63 mangoes. He packs them equally into 7 baskets. How many mangoes are in each basket?  
+26. A bakery bakes 245 cupcakes in a day. How many cupcakes will they bake in 6 days?  
+27. A train has 18 coaches, and each coach has 72 seats. How many seats are there in total?  
+28. Meera has 96 stickers. She shares them equally among 8 friends. How many stickers does each friend get?  
+29. A shop sells 54 pencils in a box. How many pencils will be there in 9 such boxes?  
+30. A rope is 128 meters long. If it is cut into 8 equal pieces, how long is each piece?  
