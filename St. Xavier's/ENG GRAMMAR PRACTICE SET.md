@@ -419,5 +419,92 @@ Words that **use the same letters** but in a **different order** to form a **new
 72. The children screamed ___. (joyfully)  
 73. Write an antonym for "dark."  
 74. My sister ___ a letter yesterday. (write)  
-75. They will go to the museum ___. (tomorrow)  
-76. The coffee has become **cold**. (Find the antonym.)  
+75. The coffee has become **cold**. (Find the antonym.)  
+
+# **ENGLISH GRAMMAR QUESTION SET**  
+
+1. **Fill in the blanks with the correct form of the verb in the simple present tense:** (5 marks)  
+   a) Renu ______ the piano. (play)  
+   b) She ______ craft to school kids. (teach)  
+   c) They ______ to Nainital every summer. (go)  
+   d) Tuhin ______ chocolates. (love)  
+   e) Aman ______ for an hour every morning. (run)  
+2. **Choose the correct simple present tense form:** (5 marks)  
+   a) Uma ______ at the annual prize night every year. (sing/sings)  
+   b) Rohit ______ for the school basketball team. (play/plays)  
+   c) Richa ______ to go to Greece someday. (hope/hopes)  
+   d) The students ______ lunch quietly. (eat/eats)  
+   e) Sneha ______ at the primary school. (teach/teaches)  
+3. **Rearrange the words to form meaningful sentences in the simple present tense:** (5 marks)  
+   a) like / Neetu / singing  
+   b) every night / I / teeth / my / brush  
+   c) restaurant / she / eat / every day / at the  
+   d) Mohan and Aman / football / every evening / play  
+   e) the cat / the front door / nap / at  
+4. **Underline the verbs in the simple past tense:** (5 marks)  
+   a) We worked all night.  
+   b) Patrick visited his aunt in the city.  
+   c) The woodpecker pecked on the bark of the tree.  
+   d) The kings built these palaces years ago.  
+   e) Shobha tasted the fruit punch.  
+5. **Rewrite the sentences in the simple past tense:** (5 marks)  
+   a) I ask questions to the teacher.  
+   b) Siobhan picks up the paper from the floor.  
+   c) He plays the drums.  
+   d) The bookstore sells new editions.  
+   e) She talks loudly in class.  
+6. **Fill in the blanks with the correct past tense form of the verb:** (5 marks)  
+   a) I ______ a tree. (climb)  
+   b) They ______ the cups. (clean)  
+   c) I ______ the door. (close)  
+   d) We ______ cakes. (bake)  
+   e) I ______ a kite. (fly)  
+7. **Complete the sentences with the future tense forms of the verbs in brackets:** (5 marks)  
+   a) I ______ my sister with her project. (help)  
+   b) Betty ______ the girl scouts. (join)  
+   c) We ______ volleyball on the beach. (play)  
+   d) Jim ______ to reach home by five. (try)  
+   e) They ______ new clothes for the festival. (buy)  
+8. **Rewrite the sentences using the simple future tense:** (5 marks)  
+   a) He goes to the fair.  
+   b) We make sweaters for the winter.  
+   c) She goes for a walk in the morning.  
+   d) Vivaan calls his mother.  
+   e) Ritu watches television in the evening.  
+9. **Fill in the blanks with the correct form of the verb in the future tense:** (5 marks)  
+   a) The birds ______ at dusk. (fly)  
+   b) I ______ this book after I finish the other one. (read)  
+   c) George ______ his shoes before the party. (mend)  
+   d) The postman ______ the letters. (bring)  
+   e) The cat ______ milk. (drink)  
+10. **Underline the adverbs in the sentences and state their type (Manner, Time, or Place):** (5 marks)  
+   a) Ujjwal ran quickly.  
+   b) We will go to the beach tomorrow.  
+   c) Ruma was sitting outside.  
+   d) She drank some water slowly.  
+   e) The monkey is sitting nearby.  
+11. **Fill in the blanks with the correct adverbs of place:** (5 marks)  
+   a) She went ______ the stairs to the terrace.  
+   b) Come ______ and help me arrange the shelves.  
+   c) Katha fell ______ from the bicycle.  
+   d) Tarun lives in the apartment ______.  
+   e) I’ll hang the mirror ______ my bed.  
+12. **Synonyms: Choose the correct synonym for the underlined word:** (5 marks)  
+   a) The instructions were (clear) ______.  
+   b) Maria is a (jolly) ______ girl.  
+   c) Please be (cautious) ______ while walking.  
+   d) It is (cold) ______ outside.  
+   e) The frog took a (leap) ______ into the pond.  
+13. **Antonyms: Choose the correct antonym for the underlined word:** (5 marks)  
+   a) The weather has been calm for a few days. (noisy/windy)  
+   b) We will close the shop at 7 o'clock. (open/far)  
+   c) The vase looks dull. (clean/bright)  
+   d) The road to the mountain was quite rough. (soft/smooth)  
+   e) The questions in the test were quite tough. (smooth/easy)  
+14. **Compound Words: Make compound words using the words in the box and complete the sentences:** (5 marks)  
+   (cupboard, haircut, butterfly, farmhouse, popcorn)  
+   a) Your umbrella is in the ______ with your books.  
+   b) Preeti went to the hairdresser to get a new ______.  
+   c) There was a pretty ______ sitting on the flower.  
+   d) We spent the evening watching films and eating ______.  
+   e) There were three horses in my uncle’s ______.  
