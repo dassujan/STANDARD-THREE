@@ -1,3 +1,6 @@
+### **SCIENCE – 100 Marks**  
+*(Answer all questions. Marks are mentioned for each question.)*  
+
 **Section A (20 Marks)**  
 *(Answer the following questions.)*  
 
