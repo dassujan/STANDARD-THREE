@@ -423,7 +423,6 @@ Words that **use the same letters** but in a **different order** to form a **new
 
 # **ENGLISH GRAMMAR QUESTION SET**  
 
-#### **Section A: Grammar (20 Marks)**  
 1. **Fill in the blanks with the correct form of the verb in the Simple Present Tense:** (5 Marks)  
    a. Renu ______ the piano every evening. (play)  
    b. They ______ to Nainital every summer. (go)  
@@ -452,7 +451,6 @@ Words that **use the same letters** but in a **different order** to form a **new
    d. She drank some water slowly.  
    e. The monkey is sitting outside.  
 
-#### **Section B: Vocabulary (15 Marks)**  
 5. **Choose the correct synonym for the underlined word:** (5 Marks)  
    a. The instructions in the booklet were **clear**.        (simple, broad, careful)  
    b. Maria is a **jolly** girl.        (cheerful, exhausted, dangerous)  
@@ -475,7 +473,6 @@ Words that **use the same letters** but in a **different order** to form a **new
    d. We like having ______ for breakfast.  
    e. We saw some seahorses and ______ in the aquarium.  
 
-#### **Section C: Writing and Application (10 Marks)**  
 8. **Rearrange the words to form meaningful sentences in the Simple Present Tense:** (5 Marks)  
    a. like / Neetu / singing  
    b. every night / teeth / my / brush  
