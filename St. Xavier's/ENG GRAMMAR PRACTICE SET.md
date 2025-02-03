@@ -417,9 +417,7 @@ Words that **use the same letters** but in a **different order** to form a **new
 70. Fill in: There was a ___ pan on the stove. (cake)  
 71. Match: **Text + book** → (a) notebook (b) textbook  
 72. The children screamed ___. (joyfully)  
-73. Write an antonym for "dark."  
-74. My sister ___ a letter yesterday. (write)  
-75. The coffee has become **cold**. (Find the antonym.)  
+73. The coffee has become **cold**. (Find the antonym.)   
 
 # **ENGLISH GRAMMAR QUESTION SET**  
 
