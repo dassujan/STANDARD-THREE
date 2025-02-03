@@ -121,7 +121,7 @@
 
 ### **Chapter 1: Explorers of the Past**  
 
-- 1. **Christopher Columbus** is credited with discovering **America**. 2. **Ferdinand Magellan** led the first expedition to sail around the **world**. 3. **Vasco da Gama** discovered the **sea route to India**. 4. **Roald Amundsen** was the first man to visit the **South Pole**. 5. The travels of **Marco Polo** are called **'The Million'**. 6. **Sir Edmund Hillary and Tenzing Norgay** were the first to climb **Mount Everest**. 7. **Captain James Cook** was a British explorer who mapped much of the **South Pacific**. 8. **Marco Polo** traveled extensively along the **Silk Road**. 9. **Ferdinand Magellan** discovered a passage between the **Atlantic and Pacific Oceans**, known as the **Strait of Magellan**. 10. The original goal of **Christopher Columbus'** journey was to find a **shorter route to India**.  
+ 1. **Christopher Columbus** is credited with discovering **America**. 2. **Ferdinand Magellan** led the first expedition to sail around the **world**. 3. **Vasco da Gama** discovered the **sea route to India**. 4. **Roald Amundsen** was the first man to visit the **South Pole**. 5. The travels of **Marco Polo** are called **'The Million'**. 6. **Sir Edmund Hillary and Tenzing Norgay** were the first to climb **Mount Everest**. 7. **Captain James Cook** was a British explorer who mapped much of the **South Pacific**. 8. **Marco Polo** traveled extensively along the **Silk Road**. 9. **Ferdinand Magellan** discovered a passage between the **Atlantic and Pacific Oceans**, known as the **Strait of Magellan**. 10. The original goal of **Christopher Columbus'** journey was to find a **shorter route to India**.  
  
 ### **Chapter 2: Better Names (Sobriquets)**  
 
