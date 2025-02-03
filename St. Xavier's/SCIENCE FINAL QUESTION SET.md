@@ -48,8 +48,11 @@
       i) Morning  ii) Noon  iii) Evening  
 
 6. Define the following: (2 × 5 = 10 marks)  
-   a) Evaporation,   b) Condensation,   c) Natural Resource  
-   d) Filtration,    e) Melting  
+   a) Evaporation  
+   b) Condensation  
+   c) Natural Resource  
+   d) Filtration  
+   e) Melting  
 
 7. Give reasons for the following: (2 × 5 = 10 marks)  
    a) We need the sun to live.  
