@@ -5,64 +5,34 @@
 *(Each question carries 2 marks.)*  
 
 1. Who was the first Indian woman to climb Mount Everest?  
-   a) Indira Gandhi  
-   b) Kiran Bedi  
-   c) Bachendri Pal  
-   d) Pratibha Patil  
+   i. Indira Gandhi   ii. Kiran Bedi   iii. Bachendri Pal   iv. Pratibha Patil  
 
 2. Which famous navigator is credited for discovering America?  
-   a) Vasco da Gama  
-   b) Christopher Columbus  
-   c) Ferdinand Magellan  
-   d) Marco Polo  
+   i. Vasco da Gama   ii. Christopher Columbus   iii. Ferdinand Magellan   iv. Marco Polo  
 
 3. What is the national emblem of Sri Lanka?  
-   a) Lion  
-   b) Eagle  
-   c) Chrysanthemum  
-   d) Crescent  
+   i. Lion   ii. Eagle   iii. Chrysanthemum   iv. Crescent  
 
 4. The Eiffel Tower is located in which city?  
-   a) Rome  
-   b) London  
-   c) Paris  
-   d) Tokyo  
+   i. Rome   ii. London   iii. Paris   iv. Tokyo  
 
 5. Which country is known as the "Land of Thunder Dragon"?  
-   a) Norway  
-   b) Bhutan  
-   c) Australia  
-   d) Turkey  
+   i. Norway   ii. Bhutan   iii. Australia   iv. Turkey  
 
 6. The White House is the official residence of the President of which country?  
-   a) France  
-   b) USA  
-   c) England  
-   d) Germany  
+   i. France   ii. USA   iii. England   iv. Germany  
 
 7. Who was the first Indian to win a Nobel Prize?  
-   a) Dr. Rajendra Prasad  
-   b) Rabindranath Tagore  
-   c) J.R.D. Tata  
-   d) Lala Amarnath  
+   i. Dr. Rajendra Prasad   ii. Rabindranath Tagore   iii. J.R.D. Tata   iv. Lala Amarnath  
 
 8. The city of Kathmandu is the capital of which country?  
-   a) Bhutan  
-   b) Nepal  
-   c) Bangladesh  
-   d) Sri Lanka  
+   i. Bhutan   ii. Nepal   iii. Bangladesh   iv. Sri Lanka  
 
 9. Which explorer led the first expedition to sail all the way around the world?  
-   a) Vasco da Gama  
-   b) Marco Polo  
-   c) Ferdinand Magellan  
-   d) Roald Amundsen  
+   i. Vasco da Gama   ii. Marco Polo   iii. Ferdinand Magellan   iv. Roald Amundsen  
 
 10. The famous Pashupatinath Temple is located in which capital city?  
-    a) Beijing  
-    b) Kathmandu  
-    c) Rome  
-    d) Dhaka  
+    i. Beijing   ii. Kathmandu   iii. Rome   iv. Dhaka  
  
 #### **Section B: Fill in the Blanks (20 Marks)**  
 *(Each question carries 2 marks.)*  
