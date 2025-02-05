@@ -67,16 +67,24 @@
  
 ### **Chapter 6: Pride of the Nation**
 
-51. Who discovered America?
-52. Who was the first man on the moon?
-53. Who invented the theory of relativity?
-54. Which scientist was forced to recant his heliocentric theory?
-55. Who is known for formulating the laws of motion?
-56. Which Russian leader led the Bolshevik Revolution?
-57. Who discovered the laws of gravity?
-58. Which leader was famous for the 'I Have a Dream' speech?
-59. Who was the first President of the United States?
-60. Who was the famous leader of the French Revolution?
+51. **Match the personality to their country**:  
+   - Albert Einstein  
+   - Adolf Hitler  
+   - Sir Isaac Newton  
+   (Options: U.S.A., Germany, England)  
+52. **Who discovered the route to America in 1492?**  
+   a) Neil Armstrong,   b) Christopher Columbus,   c) Galileo Galilei  
+53. **Which country did Walt Disney belong to?**  
+   a) Germany,   b) U.S.A.,   c) England  
+54. **True or False**: Christopher Columbus was an Italian explorer who sailed for Spain.  
+55. **Name the first person to walk on the moon. Which country did he represent?**  
+56. **Identify two famous personalities from Germany** (e.g., Adolf Hitler, ______).  
+57. **Who is known for creating famous cartoon characters like Mickey Mouse?**  
+   a) Charlie Chaplin,   b) Walt Disney,   c) Karl Marx  
+58. **Which scientist is associated with the theory of relativity and belonged to the U.S.A.?**  
+   a) Galileo Galilei,   b) Albert Einstein,   c) Max Mueller  
+59. **Sir Isaac Newton, who discovered gravity, was from __________.**  
+60. **Fill in the blank**: Helen Keller, a famous author and activist, was from the __________.  
  
 ### **Chapter 7: Super Structures**
 
@@ -141,7 +149,7 @@
  
 ### **Chapter 6: Pride of the Nation**  
 
- 51. **Christopher Columbus** discovered America. 52. **Neil Armstrong** was the first man on the moon. 53. **Albert Einstein** developed the **theory of relativity**. 54. **Galileo Galilei** was forced to recant his **heliocentric theory**. 55. **Sir Isaac Newton** formulated the **laws of motion**. 56. **Vladimir Lenin** led the **Bolshevik Revolution**. 57. **Sir Isaac Newton** discovered the **laws of gravity**. 58. **Martin Luther King Jr.** was famous for his **'I Have a Dream'** speech. 59. **George Washington** was the first **President of the United States**. 60. **Maximilien Robespierre** was a famous leader of the **French Revolution**.  
+ 51. **Albert Einstein belonged to the U.S.A., Adolf Hitler belonged to Germany, and Sir Isaac Newton belonged to England.**  52. **Christopher Columbus discovered the route to America in 1492.**  53. **Walt Disney belonged to the U.S.A.**  54. **True, Christopher Columbus was an Italian explorer who sailed for Spain.**  55. **Neil Armstrong was the first person to walk on the moon, and he represented the U.S.A.**  56. **Two famous personalities from Germany are Adolf Hitler and Max Mueller.** 57. **Walt Disney is known for creating famous cartoon characters like Mickey Mouse.**  58. **Albert Einstein is the scientist associated with the theory of relativity and belonged to the U.S.A.**  59. **Sir Isaac Newton, who discovered gravity, was from England.**  60. **Helen Keller, a famous author and activist, was from the U.S.A.**
  
 ### **Chapter 7: Super Structures**  
 
