@@ -109,5 +109,3 @@
 
 38. Why do we use simple machines in daily life? Give examples.  
 39. How does the rotation of Earth cause day and night? Explain.  
- 
-This question paper covers all key topics while maintaining an ICSE board exam standard. Let me know if you need any modifications! 😊
