@@ -8,58 +8,32 @@
    d) Any of these  
 
 2. Which of the following is a first-order lever?  
-   a) Bottle opener  
-   b) Scissors  
-   c) Knife  
-   d) Broom  
+   a) Bottle opener    b) Scissors     c) Knife     d) Broom  
 
 3. A screw is an example of a:  
-   a) Complex machine  
-   b) Simple machine  
-   c) Both (a) and (b)  
+   a) Complex machine     b) Simple machine     c) Both (a) and (b)  
    d) None of these  
 
 4. A wooden plank acts as a:  
-   a) Lever  
-   b) Pulley  
-   c) Simple machine  
-   d) Complex machine  
+   a) Lever     b) Pulley     c) Simple machine     d) Complex machine  
 
 5. On a full moon day, __________ eclipse occurs.  
-   a) Solar  
-   b) Lunar  
-   c) Partial  
-   d) None of these  
+   a) Solar     b) Lunar    c) Partial     d) None of these  
 
 6. A wheel with a groove and a rope passing through it is called:  
-   a) Pulley  
-   b) Lever  
-   c) Screw  
-   d) Wedge  
+   a) Pulley     b) Lever     c) Screw     d) Wedge  
 
 7. The object on which work is being done in a lever is called:  
-   a) Effort  
-   b) Load  
-   c) Fulcrum  
-   d) Machine  
+   a) Effort     b) Load     c) Fulcrum     d) Machine  
 
 8. The part of the Earth facing the Sun experiences:  
-   a) Night  
-   b) Eclipse  
-   c) Day  
-   d) Shadow  
+   a) Night     b) Eclipse     c) Day     d) Shadow  
 
 9. A bottle opener is an example of which type of lever?  
-   a) Class I  
-   b) Class II  
-   c) Class III  
-   d) None of these  
+   a) Class I     b) Class II     c) Class III     d) None of these  
 
 10. Which of the following is a transparent object?  
-   a) Wood  
-   b) Glass  
-   c) Paper  
-   d) Plastic  
+   a) Wood     b) Glass     c) Paper     d) Plastic  
  
 ### **Section B – Fill in the Blanks (1 × 10 = 10 Marks)**  
 
