@@ -83,7 +83,7 @@
 ### **Section I: Think and Answer (16 marks)**  
 *(Each question carries 4 marks. Write a thoughtful answer in about 5–6 sentences.)*
 
-1. Why do you think the birds are not afraid of the person who feeds them, even though she throws the grains on the ground?  
-2. Discuss the importance of respecting nature as shown in the gentle interaction between a living entity and the animals.  
-3. How does the little girl’s determination to read books meant for grown-ups inspire others?  
-4. What lessons about friendship can we learn from the relationships described in the passages?
+1. Do you think that Gajraj and the tree were good friends? Explain with reasons.  
+2. Bansuri always had a tiny cup with which she watered tiny plants on her way. What does this tell us about Bansuri?  
+3. Does the speaker like having the parrots come to her lawn? Which lines of the poem tell us how she feels about them coming?  
+4. If you have to live in the jungle, you have to respect all creatures big and small and learn to live with them all. What do you understand from this state
