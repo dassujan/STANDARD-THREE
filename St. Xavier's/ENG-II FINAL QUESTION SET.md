@@ -27,8 +27,8 @@
    a) Curious     b) Lazy  
    c) Careless     d) Disinterested  
  
-### **Section B: Fill in the Blanks (10 marks)**  
-*(Each question carries 2 marks. Write the correct word in the blank.)*
+### **Section B: Fill in the Blanks (5 marks)**  
+*(Each question carries 1 marks. Write the correct word in the blank.)*
 
 1. The birds ________ down on the juicy grams that are thrown.  
 2. A gentle living entity tells a large animal, “Not so hard, brother, my bones are ________.”  
@@ -61,10 +61,10 @@
 
 - **Swoop**, **Crumbling**, **Toddle**, **Stunned**, **Murmuring**, **Trim**
  
-### **Section F: Make Sentences (10 marks)**  
+### **Section F: Make Sentences (8 marks)**  
 *(Each word carries 2 marks. Use each word in a meaningful sentence.)*
 
-- **Flock**, **Branch**, **Mystery**, **Butterflies**, **Juicy**
+- **Flock**, **Branch**, **Mystery**, **Juicy**
  
 ### **Section G: Who Said to Whom? (6 marks)**  
 *(Each question carries 2 marks. Write your answer clearly.)*
@@ -73,15 +73,16 @@
 2. Who remarked, “I thought some were very poor, but others were lovely,” and who was being addressed?  
 3. Who said, “The plants are thirsty, Grandma, but they cannot tell us because they cannot speak,” and who was spoken to?
  
-### **Section H: Short Answer Questions (12 marks)**  
-*(Each question carries 4 marks. Write a short answer in 3–4 sentences.)*
+### **Section H: Short Answer Questions (8 marks)**  
+*(Each question carries 2 marks. Write a short answer in 3–4 sentences.)*
 
-1. Describe how the speaker (or living entity) feels about the visiting birds.  
-2. Explain the interaction between the living entity and the large animal. How does it show their friendship?  
-3. What does the little girl’s habit of visiting the public place and choosing a long, famous novel reveal about her character?
+1. What do the parrots do after eating the grains?  
+2. How did the tree help Gajraj?  
+3. Why did Bansuri water the plants even though they couldn’t speak?  
+4. How did the tree know that Bansuri wanted to be its friend?  
  
-### **Section I: Think and Answer (16 marks)**  
-*(Each question carries 4 marks. Write a thoughtful answer in about 5–6 sentences.)*
+### **Section I: Think and Answer (12 marks)**  
+*(Each question carries 3 marks. Write a thoughtful answer in about 5–6 sentences.)*
 
 1. Do you think that Gajraj and the tree were good friends? Explain with reasons.  
 2. Bansuri always had a tiny cup with which she watered tiny plants on her way. What does this tell us about Bansuri?  
