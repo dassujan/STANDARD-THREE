@@ -91,5 +91,7 @@ Answer the following questions in **5-6 sentences** each.
 
 Answer in your own words.  
 
-36. Rimi saw a "Horn Prohibited" sign near a hospital. Why was it placed there? Where else do you think this sign should be used?  
-37. Why can’t we see the Moon and stars during the daytime?  
+36. Rimi saw a "Horn Prohibited" sign near a hospital. Why was it placed there? Where else do you think this sign should be used?
+37. Why is it important to follow safety rules at home, school, and on the road? What can happen if we do not follow these rules?
+38. Why do you think Gandhiji believed in non-violence? How can we use his teachings in our daily lives?
+39. Why can’t we see the Moon and stars during the daytime?  
