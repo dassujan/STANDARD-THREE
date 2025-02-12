@@ -4,8 +4,8 @@
 3. Neatness and legibility will be considered for marks.  
 4. The mark allocation is indicated against each section.
  
-### **Section A: Multiple-Choice Questions (10 marks)**  
-*(Each question carries 2 marks. Choose the correct option.)*
+### **Section A: Multiple-Choice Questions (5 marks)**  
+*(Each question carries 1 marks. Choose the correct option.)*
 
 1. When a group of birds appears in one passage, they are seen flying at:  
    a) Noon     b) Early morning  
